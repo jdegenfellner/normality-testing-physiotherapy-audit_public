@@ -1,0 +1,169 @@
+===== CORPUS =====
+Total papers: 1157
+Year range: 2015-2024
+
+Overall code distribution:
+# A tibble: 5 × 3
+  auto_code      n   pct
+  <fct>      <int> <dbl>
+1 CORRECT       12   1  
+2 ACCEPTABLE    25   2.2
+3 INCORRECT   1094  94.6
+4 MIXED         24   2.1
+5 UNCLEAR        2   0.2
+
+===== PRIMARY OUTCOME =====
+Definitively coded: 1155
+Incorrect (INCORRECT+MIXED): 1118 (96.8%), 95% Wilson CI [95.6, 97.7]
+Correct (residuals): 12 (1.0%)
+Acceptable (per group): 25 (2.2%)
+
+===== BY JOURNAL (definitive) =====
+# A tibble: 16 × 4
+   journal_full                                             n_papers n_incorrect pct_incorrect
+   <chr>                                                       <int>       <int>         <dbl>
+ 1 Journal of Physical Therapy Science                           563         544          96.6
+ 2 Brazilian Journal of Physical Therapy                         216         215          99.5
+ 3 Physiotherapy                                                 110         107          97.3
+ 4 European Journal of Physical and Rehabilitation Medicine       67          63          94  
+ 5 Archives of Physical Medicine and Rehabilitation               39          36          92.3
+ 6 Physiotherapy Canada                                           31          31         100  
+ 7 Physical Therapy                                               30          30         100  
+ 8 Hong Kong Physiotherapy Journal                                29          29         100  
+ 9 Clinical Rehabilitation                                        25          24          96  
+10 Journal of Physiotherapy                                       16          14          87.5
+11 Disability and Rehabilitation                                   8           8         100  
+12 Journal of Orthopaedic & Sports Physical Therapy                7           6          85.7
+13 Physiotherapy Theory and Practice                               6           4          66.7
+14 Physical Therapy in Sport                                       5           5         100  
+15 Journal of Hand Therapy                                         2           1          50  
+16 Musculoskeletal Science and Practice                            1           1         100  
+
+===== BY YEAR =====
+# A tibble: 10 × 4
+    year n_papers n_incorrect pct_incorrect
+   <int>    <int>       <int>         <dbl>
+ 1  2015      176         170          96.6
+ 2  2016      186         178          95.7
+ 3  2017      125         120          96  
+ 4  2018       83          79          95.2
+ 5  2019       72          71          98.6
+ 6  2020       88          85          96.6
+ 7  2021      103         102          99.0
+ 8  2022      105         100          95.2
+ 9  2023      108         107          99.1
+10  2024      109         106          97.2
+
+Trend (descriptive): yearly range 95.2%-99.1%
+
+===== NORMALITY TEST USED =====
+# A tibble: 4 × 2
+  norm_tests             n
+  <chr>              <int>
+1 Shapiro-Wilk         762
+2 Kolmogorov-Smirnov   391
+3 Anderson-Darling       2
+4 D'Agostino             2
+Papers mentioning Shapiro-Wilk: 762 (65.9%)
+Papers mentioning K-S/Lilliefors: 391 (33.8%)
+
+===== STATISTICAL CONTEXT =====
+# A tibble: 6 × 2
+  stat_context              n
+  <chr>                 <int>
+1 t-test                  433
+2 Mann-Whitney/Wilcoxon   238
+3 ANOVA                   215
+4 correlation             181
+5 regression               73
+6 ANCOVA/mixed model       33
+
+Sensitivity (linear-model context): 635/660 = 96.2% incorrect (57% of corpus)
+Correlation-only context:           99/101 = 98.0% incorrect
+Fig3 comparator CIs: ecology 70% [56.2, 80.9], biology 90% [78.6, 95.7]
+
+===== SIMULATION: Type I error (d=0) =====
+# A tibble: 1 × 4
+  power_A power_B power_C power_D
+    <dbl>   <dbl>   <dbl>   <dbl>
+1   0.049    0.05   0.049   0.049
+
+===== SIMULATION: workflow gaps (d>0) =====
+Max (best - A) power gap: 2.2 pp
+# A tibble: 4 × 3
+  distribution max_gap_vs_A max_D_minus_A
+  <chr>               <dbl>         <dbl>
+1 bimodal               0.6           0.6
+2 normal                0.3           0  
+3 pain                  0.3           0.1
+4 skewed                2.2           1.7
+
+Pain-score, small n (<=20), d=0.5:
+# A tibble: 2 × 5
+  n_per_group power_A power_B power_C power_D
+        <dbl>   <dbl>   <dbl>   <dbl>   <dbl>
+1          10      14    14.3    10.6    14.1
+2          20      26    26      17.8    25.9
+
+===== TABLE 1 =====
+# A tibble: 16 × 4
+   Journal                                                  `Papers coded` `n incorrect` `% incorrect`
+   <chr>                                                             <int>         <int>         <dbl>
+ 1 Journal of Physical Therapy Science                                 563           544          96.6
+ 2 Brazilian Journal of Physical Therapy                               216           215          99.5
+ 3 Physiotherapy                                                       110           107          97.3
+ 4 European Journal of Physical and Rehabilitation Medicine             67            63          94  
+ 5 Archives of Physical Medicine and Rehabilitation                     39            36          92.3
+ 6 Physiotherapy Canada                                                 31            31         100  
+ 7 Physical Therapy                                                     30            30         100  
+ 8 Hong Kong Physiotherapy Journal                                      29            29         100  
+ 9 Clinical Rehabilitation                                              25            24          96  
+10 Journal of Physiotherapy                                             16            14          87.5
+11 Disability and Rehabilitation                                         8             8         100  
+12 Journal of Orthopaedic & Sports Physical Therapy                      7             6          85.7
+13 Physiotherapy Theory and Practice                                     6             4          66.7
+14 Physical Therapy in Sport                                             5             5         100  
+15 Journal of Hand Therapy                                               2             1          50  
+16 Musculoskeletal Science and Practice                                  1             1         100  
+
+===== TABLE 2 =====
+# A tibble: 16 × 6
+   Distribution `n/group` `A: Incorrect` `B: Per-group` `C: Welch` `D: Mann-Whitney`
+   <chr>            <dbl>          <dbl>          <dbl>      <dbl>             <dbl>
+ 1 Normal              10           18.6           18.8       18.5              16.8
+ 2 Normal              20           33.2           33.4       33.3              32  
+ 3 Normal              30           48.8           48.9       48.9              46.2
+ 4 Normal              50           69.3           69.4       69.5              67.1
+ 5 Skewed              10           21.7           23.1       19.6              22.3
+ 6 Skewed              20           42.1           43.2       34.3              43.1
+ 7 Skewed              30           61.4           61.6       49.4              61.7
+ 8 Skewed              50           83.3           83.3       70                83.3
+ 9 Pain score          10           14             14.3       10.6              14.1
+10 Pain score          20           26             26         17.8              25.9
+11 Pain score          30           36.7           36.7       24                36.7
+12 Pain score          50           54.9           54.9       37                54.9
+13 Bimodal             10           17.7           17.9       17.1              17.7
+14 Bimodal             20           35.9           36.2       32.9              36.5
+15 Bimodal             30           52.5           52.3       47.7              52.4
+16 Bimodal             50           73.8           73.6       69.5              73.6
+
+===== TABLE 3 (heteroscedastic, d=0.5) =====
+# A tibble: 10 × 7
+   `SD ratio` `n/group` `A: Incorrect` `B: Per-group` `C: Welch` `D: Mann-Whitney` `|A-B|`
+        <dbl>     <dbl>          <dbl>          <dbl>      <dbl>             <dbl>   <dbl>
+ 1          2        10            9.5           10.1        9.7               9.5     0.6
+ 2          2        20           15.7           16.7       16.6              16.8     1  
+ 3          2        30           21             23         22.7              22.5     1.9
+ 4          2        50           32.9           35.2       35                34.2     2.4
+ 5          2       100           57.1           60.2       60.5              58       3.1
+ 6          3        10            7.5            8          7.6               8.3     0.5
+ 7          3        20           10.3           10.9       10.3              12.2     0.7
+ 8          3        30           14.1           14.5       14                15.5     0.4
+ 9          3        50           19.5           19.9       19.4              20.4     0.4
+10          3       100           35.1           35.1       34.8              35.1     0  
+
+Heteroscedastic Type I (d=0), % by SD ratio:
+  ratio power_A power_B power_C power_D
+1     2     5.1     5.4     5.2     5.7
+2     3     5.8     5.5     4.9     6.6
+Heteroscedastic |A-B|: max=3.1 pp, mean=1.0 pp

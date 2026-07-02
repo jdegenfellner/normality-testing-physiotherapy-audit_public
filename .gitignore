@@ -1,0 +1,56 @@
+# Secrets / licensed content — MUST NOT be published
+# (Elsevier API key + agreement; downloaded publisher PDFs; raw + Elsevier
+#  full-text passages, which the TDM terms forbid redistributing)
+Elsevier/
+INFO_Royal/
+passages.json
+elsevier_passages.json
+.elsevier_key
+api_key.txt
+
+# Reproducible public data is committed instead:
+#   passages_public.json (open-access passages only; non-OA blanked)
+#   coded_auto.csv       (codes; non-OA sentence text blanked)
+
+# LaTeX build artefacts
+*.aux
+*.bbl
+*.blg
+*.bcf
+*.out
+*.log
+*.synctex.gz
+*.run.xml
+*.fls
+*.fdb_latexmk
+
+# Scratch / OS / local
+*.err
+.DS_Store
+.Rhistory
+analysis/
+
+# Submission correspondence (not for public deposit)
+cover_letter_BMC.md
+
+# Validation coding sheet (contains non-open-licensed full-text sentences)
+validation_coding_sheet.csv
+validation_sample_design.json
+
+validation_coding_sheet.xlsx
+
+# Validation full texts (local convenience; non-open-licensed content)
+validation_fulltext/
+
+# Full corpus full texts (local archive; non-open-licensed content)
+corpus_fulltext/
+
+# Excel lock/temp files
+~$*
+
+# Copyrighted reference PDFs (local only -- do NOT redistribute)
+literature/
+
+# transient LLM run log (llm_codes.csv itself is committed; for the PUBLIC repo,
+# blank llm_reason for non-open-access papers as is done for norm_sentence)
+llm_run.log

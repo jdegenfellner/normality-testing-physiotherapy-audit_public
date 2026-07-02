@@ -1,0 +1,1156 @@
+id,journal_abbr,year,auto_code,llm_code,llm_reason
+33561276,Phys Ther,2021,MIXED,CORRECT,
+37805994,Phys Ther,2024,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+37581587,Phys Ther,2023,INCORRECT,INCORRECT,
+37870503,Phys Ther,2024,INCORRECT,INCORRECT,Normality test applied to pooled outcome without group conditioning.
+37847662,Phys Ther,2023,INCORRECT,INCORRECT,
+32949237,Phys Ther,2020,INCORRECT,INCORRECT,
+34555167,Phys Ther,2021,INCORRECT,INCORRECT,
+35230421,Phys Ther,2022,MIXED,CORRECT,Normality and constant variance of residuals were confirmed.
+37384640,Phys Ther,2023,INCORRECT,INCORRECT,
+37140476,Phys Ther,2023,INCORRECT,INCORRECT,"Tests applied to pooled/raw scores, not residuals or per-group."
+37104625,Phys Ther,2023,INCORRECT,INCORRECT,"Normality assessed on unqualified 'data', not residuals or per-group."
+33710269,Phys Ther,2021,MIXED,CORRECT,
+35670001,Phys Ther,2022,INCORRECT,INCORRECT,
+37172125,Phys Ther,2023,INCORRECT,INCORRECT,
+36200394,Phys Ther,2022,INCORRECT,INCORRECT,
+35233607,Phys Ther,2022,INCORRECT,INCORRECT,
+32915985,Phys Ther,2020,INCORRECT,INCORRECT,Tests normality on pooled/raw data without specifying residuals or groups.
+33735374,Phys Ther,2021,INCORRECT,INCORRECT,
+34174073,Phys Ther,2021,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+28444350,Phys Ther,2017,INCORRECT,INCORRECT,
+34554253,Phys Ther,2022,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+33735386,Phys Ther,2021,INCORRECT,INCORRECT,
+32671398,Phys Ther,2020,MIXED,INCORRECT,Normality checked on data without specifying residuals or groups.
+31197369,Phys Ther,2019,INCORRECT,INCORRECT,
+31220327,Phys Ther,2019,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+30476281,Phys Ther,2019,INCORRECT,INCORRECT,
+30690522,Phys Ther,2019,INCORRECT,INCORRECT,"Normality checked on unqualified 'data', not residuals or per-group."
+29088390,Phys Ther,2018,INCORRECT,INCORRECT,
+25573759,Phys Ther,2015,INCORRECT,INCORRECT,
+27103222,Phys Ther,2016,INCORRECT,INCORRECT,
+33678116,Physiother Theory Pract,2022,INCORRECT,INCORRECT,Unqualified statement about testing data for normality.
+36567617,Physiother Theory Pract,2024,INCORRECT,INCORRECT,"Normality test applied to pooled/raw cost category data, not residuals or per-group."
+29952694,Physiother Theory Pract,2020,CORRECT,CORRECT,Normality test applied to residuals explicitly.
+26863987,Physiother Theory Pract,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+29963931,Physiother Theory Pract,2020,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+29368984,Physiother Theory Pract,2018,ACCEPTABLE,ACCEPTABLE,Normality tested separately within each group.
+36688719,J Orthop Sports Phys Ther,2023,CORRECT,CORRECT,Residuals were tested for normality using Shapiro-Wilk tests.
+31905098,J Orthop Sports Phys Ther,2020,INCORRECT,INCORRECT,Unqualified statement about testing data normality.
+28158957,J Orthop Sports Phys Ther,2017,INCORRECT,INCORRECT,Shapiro-Wilk test applied to data without specifying residuals or groups.
+30658048,J Orthop Sports Phys Ther,2019,INCORRECT,INCORRECT,"Normality assessed on unqualified 'data', not residuals or per-group."
+25739842,J Orthop Sports Phys Ther,2015,INCORRECT,INCORRECT,"Tests applied to all continuous data, not residuals or per-group."
+28992772,J Orthop Sports Phys Ther,2017,INCORRECT,INCORRECT,Unqualified statement about testing data for normality.
+25627155,J Orthop Sports Phys Ther,2015,INCORRECT,INCORRECT,"Tests applied to variables, not residuals or per-group data."
+36103903,Arch Phys Med Rehabil,2023,INCORRECT,INCORRECT,"Tests applied to unqualified 'numerical variables', not residuals or per-group."
+38754720,Arch Phys Med Rehabil,2024,INCORRECT,INCORRECT,
+39187006,Arch Phys Med Rehabil,2024,INCORRECT,INCORRECT,"Normality tested on pooled/raw outcome measures, not residuals or per-group."
+37037292,Arch Phys Med Rehabil,2023,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+37348826,Arch Phys Med Rehabil,2024,INCORRECT,INCORRECT,"Normality test on pooled/raw data, not residuals or per-group."
+34963574,Arch Phys Med Rehabil,2022,INCORRECT,UNCLEAR,No normality test target clearly specified.
+33548208,Arch Phys Med Rehabil,2021,INCORRECT,UNCLEAR,Lacks specific target for normality test.
+37149017,Arch Phys Med Rehabil,2023,INCORRECT,INCORRECT,"Shapiro-Wilk test on non-residual, pooled data."
+37329969,Arch Phys Med Rehabil,2023,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+27590444,Arch Phys Med Rehabil,2017,CORRECT,CORRECT,Residuals were evaluated for normality using tests.
+29698638,Arch Phys Med Rehabil,2018,MIXED,CORRECT,Normality tests applied to residuals of ANCOVA models.
+35398048,Arch Phys Med Rehabil,2022,INCORRECT,INCORRECT,Normality test applied to pooled/raw numerical data without specifying groups or residuals.
+37037293,Arch Phys Med Rehabil,2023,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+29107041,Arch Phys Med Rehabil,2018,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+36854349,Arch Phys Med Rehabil,2023,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+33711281,Arch Phys Med Rehabil,2022,INCORRECT,INCORRECT,Data were tested for normality without specifying residuals or groups.
+34090853,Arch Phys Med Rehabil,2022,INCORRECT,INCORRECT,"No specific target mentioned, assumes pooled/raw data."
+34090854,Arch Phys Med Rehabil,2022,INCORRECT,INCORRECT,"Normality test applied to pooled TAI-Q scores, not residuals or per-group."
+32113974,Arch Phys Med Rehabil,2020,INCORRECT,INCORRECT,"Tests applied to pooled Z-scores, not residuals or per-group."
+33711279,Arch Phys Med Rehabil,2021,INCORRECT,INCORRECT,"Tests applied to pooled/raw variables, not residuals or per-group."
+31778661,Arch Phys Med Rehabil,2020,CORRECT,CORRECT,Normality test applied to residuals of the final model.
+28760574,Arch Phys Med Rehabil,2018,INCORRECT,INCORRECT,Normality test applied to unqualified 'study data'.
+34748757,Arch Phys Med Rehabil,2022,INCORRECT,INCORRECT,Data distributions assessed without specifying residuals or per-group.
+27693420,Arch Phys Med Rehabil,2017,INCORRECT,INCORRECT,"Normality tests applied to unqualified 'data', not residuals or per-group."
+26836953,Arch Phys Med Rehabil,2016,INCORRECT,INCORRECT,"Normality test applied to pooled ACGC T-scores, not residuals or per-group."
+29653108,Arch Phys Med Rehabil,2018,INCORRECT,INCORRECT,"Normality test applied to pooled/raw outcome data, not residuals or per-group."
+28751255,Arch Phys Med Rehabil,2018,INCORRECT,UNCLEAR,No clear target for normality test described.
+30148995,Arch Phys Med Rehabil,2019,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+27530769,Arch Phys Med Rehabil,2017,INCORRECT,UNCLEAR,No specific target for normality test mentioned.
+28279660,Arch Phys Med Rehabil,2017,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+28610969,Arch Phys Med Rehabil,2017,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying groups or residuals.
+28576629,Arch Phys Med Rehabil,2017,INCORRECT,INCORRECT,Normality checked on data without specifying residuals or groups.
+28322758,Arch Phys Med Rehabil,2017,INCORRECT,INCORRECT,Normality test applied to pooled data without residuals or per-group specification.
+28007444,Arch Phys Med Rehabil,2017,INCORRECT,INCORRECT,Normality test applied to outcome measures without specifying residuals or groups.
+26763949,Arch Phys Med Rehabil,2016,INCORRECT,INCORRECT,Normality tested on data without specifying residuals or per-group.
+26392035,Arch Phys Med Rehabil,2016,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+27590443,Arch Phys Med Rehabil,2017,INCORRECT,INCORRECT,"Normality test applied to pooled/raw outcome data, not residuals or per-group."
+26711169,Arch Phys Med Rehabil,2016,INCORRECT,UNCLEAR,
+26836952,Arch Phys Med Rehabil,2016,CORRECT,CORRECT,"Normality assessed on residuals, which is correct."
+38439657,Clin Rehabil,2024,INCORRECT,INCORRECT,"Tests applied to pooled/raw data, not residuals or per-group."
+37487188,Clin Rehabil,2023,INCORRECT,INCORRECT,"Tests applied to all continuous variables, not residuals or per-group."
+38656174,Clin Rehabil,2024,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+38676324,Clin Rehabil,2024,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+38631370,Clin Rehabil,2024,INCORRECT,INCORRECT,"Shapiro-Wilk test on unqualified 'data', not residuals or per-group."
+36638533,Clin Rehabil,2023,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+35678610,Clin Rehabil,2022,INCORRECT,INCORRECT,"Tests applied to variables, not residuals or per-group."
+35313751,Clin Rehabil,2022,INCORRECT,UNCLEAR,No specific target for normality test mentioned.
+36380681,Clin Rehabil,2023,INCORRECT,INCORRECT,Normality test applied to unqualified 'data distribution'.
+30012033,Clin Rehabil,2018,INCORRECT,INCORRECT,"Tests normality on unqualified 'data', not residuals or per-group."
+35473371,Clin Rehabil,2022,INCORRECT,INCORRECT,
+36154313,Clin Rehabil,2023,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+34132109,Clin Rehabil,2021,INCORRECT,INCORRECT,"Shapiro–Wilk test on unqualified 'data', not residuals or per-group."
+35702004,Clin Rehabil,2022,INCORRECT,INCORRECT,Normality evaluated without specifying residuals or per-group data.
+33172299,Clin Rehabil,2021,INCORRECT,INCORRECT,"Normality test applied to raw scores, not residuals or per-group."
+33781101,Clin Rehabil,2021,INCORRECT,INCORRECT,Shapiro-Wilk test on data without specifying residuals or groups.
+28895427,Clin Rehabil,2018,INCORRECT,MIXED,Tests on residuals (quality-of-life) and pooled data (stigma scales).
+32942914,Clin Rehabil,2021,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+29232980,Clin Rehabil,2018,INCORRECT,INCORRECT,"Tests applied to all variables, not residuals or per-group."
+32476455,Clin Rehabil,2020,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+27496700,Clin Rehabil,2016,INCORRECT,INCORRECT,"Tests applied to pooled/raw data, not residuals or per-group."
+28750549,Clin Rehabil,2018,CORRECT,CORRECT,Residuals were checked for normality using Shapiro-Wilk test.
+27496697,Clin Rehabil,2016,INCORRECT,INCORRECT,"Normality test applied to raw AMPSIMM scores, not residuals or per-group."
+28730849,Clin Rehabil,2018,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+25819076,Clin Rehabil,2016,INCORRECT,INCORRECT,"Normality test on pooled/raw scores, not residuals or per-group."
+37073780,Disabil Rehabil,2024,INCORRECT,INCORRECT,"Normality test applied to pooled/raw variables, not residuals or per-group."
+35723056,Disabil Rehabil,2023,INCORRECT,INCORRECT,"Normality test applied to score distributions, not residuals or per-group."
+36533430,Disabil Rehabil,2023,INCORRECT,INCORRECT,"Normality checked on continuous variables, not residuals or per-group."
+25598213,Disabil Rehabil,2015,INCORRECT,INCORRECT,"Tests applied to variables, not residuals or per-group data."
+29987963,Disabil Rehabil,2019,INCORRECT,ACCEPTABLE,"Normality tested for each individual set of data, not residuals or pooled."
+31155969,Disabil Rehabil,2021,INCORRECT,INCORRECT,Raw data checked without specifying residuals or per-group testing.
+26972087,Disabil Rehabil,2017,INCORRECT,INCORRECT,"Normality tested on pooled/raw data, not residuals or per-group."
+28637129,Disabil Rehabil,2018,INCORRECT,INCORRECT,"Normality checked on all continuous variables, not residuals or per-group."
+39073359,Eur J Phys Rehabil Med,2024,CORRECT,CORRECT,"Normality test applied to residuals, not pooled data."
+38551519,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+39441113,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+38743389,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,"Shapiro-Wilk Test on unqualified 'outcomes', not residuals or per-group."
+39291952,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,Normality test applied to variables without specifying residuals or groups.
+39374049,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+38577727,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+39235254,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,"Shapiro-Wilk Test on non-normal continuous variables, not residuals or per-group."
+39007786,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,"Normality assessed on pooled/raw data, not residuals or per-group."
+37847247,Eur J Phys Rehabil Med,2023,INCORRECT,INCORRECT,"Normality test applied to continuous variables, not residuals or per-group."
+38743390,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,Shapiro-Wilk test applied to data without specifying residuals or groups.
+38922315,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,Shapiro-Wilk Test applied to data without specifying residuals or groups.
+39441111,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,"Normality checked on variables, not residuals or per-group."
+38483333,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,"Normality test applied to all parameters, not residuals or per-group."
+38483332,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,"No specific target mentioned, assumes pooled/raw data."
+38193722,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+38888734,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,Tests applied to data without specifying residuals or groups.
+38814197,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+38647533,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+37869760,Eur J Phys Rehabil Med,2023,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+38483331,Eur J Phys Rehabil Med,2024,MIXED,MIXED,Tests on residuals and unqualified continuous variables.
+38332698,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying groups or residuals.
+38551521,Eur J Phys Rehabil Med,2024,ACCEPTABLE,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+37997324,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,"Tests applied to parameters, not residuals or per-group."
+37226445,Eur J Phys Rehabil Med,2023,INCORRECT,INCORRECT,Unqualified statement about testing data normality.
+38298025,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,"Shapiro-Wilk applied to unqualified 'data', not residuals or per-group."
+37934189,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,"Tests applied to raw data, not residuals or per-group."
+36940179,Eur J Phys Rehabil Med,2023,INCORRECT,INCORRECT,"Tests for normality applied to all variables, not residuals or per-group."
+37869759,Eur J Phys Rehabil Med,2023,INCORRECT,INCORRECT,"Normality assessed on unqualified 'data', not residuals or per-group."
+36637800,Eur J Phys Rehabil Med,2023,INCORRECT,INCORRECT,Normality test applied to unqualified 'distributions'.
+38483335,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,"Normality test applied to pooled/raw outcome data, not residuals or per-group."
+38358464,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,"Normality assessed on variables, not residuals or per-group."
+36940180,Eur J Phys Rehabil Med,2023,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+37377129,Eur J Phys Rehabil Med,2023,INCORRECT,MIXED,Tests on residuals and unqualified 'data' mentioned.
+36094367,Eur J Phys Rehabil Med,2022,INCORRECT,INCORRECT,"Normality test applied to pooled/raw variables, not residuals or per-group."
+37350165,Eur J Phys Rehabil Med,2023,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+37083100,Eur J Phys Rehabil Med,2023,INCORRECT,INCORRECT,"Normality test applied to pooled/raw outcome data, not residuals or per-group."
+37184413,Eur J Phys Rehabil Med,2023,INCORRECT,INCORRECT,"Unqualified mention of 'data', not residuals or per-group."
+35666490,Eur J Phys Rehabil Med,2022,INCORRECT,INCORRECT,"Normality assessed on unqualified 'data', not residuals or per-group."
+36700245,Eur J Phys Rehabil Med,2023,INCORRECT,INCORRECT,Normality test applied to all data without specifying residuals or groups.
+38814196,Eur J Phys Rehabil Med,2024,INCORRECT,INCORRECT,"Normality test on unqualified 'data', not residuals or per-group."
+36598343,Eur J Phys Rehabil Med,2023,INCORRECT,INCORRECT,"Normality test applied to each variable, not residuals or per-group."
+37539778,Eur J Phys Rehabil Med,2023,INCORRECT,INCORRECT,"Normality test on pooled/raw continuous variables, not residuals or per-group."
+36052892,Eur J Phys Rehabil Med,2022,INCORRECT,INCORRECT,"Normality test applied to unqualified 'variables', not residuals or per-group."
+36511168,Eur J Phys Rehabil Med,2023,INCORRECT,UNCLEAR,No specific target for normality test mentioned.
+35904308,Eur J Phys Rehabil Med,2022,INCORRECT,INCORRECT,Unqualified statement about testing data for normality.
+36633498,Eur J Phys Rehabil Med,2023,INCORRECT,INCORRECT,"Normality tested on variables, not residuals or per-group."
+35634888,Eur J Phys Rehabil Med,2022,INCORRECT,INCORRECT,"Shapiro-Wilk test on unqualified 'data', not residuals or per-group."
+36052890,Eur J Phys Rehabil Med,2022,CORRECT,CORRECT,Normality assessed on residuals using Q-Q plots and Shapiro-Wilk test.
+36052889,Eur J Phys Rehabil Med,2022,INCORRECT,INCORRECT,Unqualified statement about testing data normality.
+36723055,Eur J Phys Rehabil Med,2023,INCORRECT,INCORRECT,"Normality test applied to pooled/raw continuous data, not residuals or per-group."
+34468111,Eur J Phys Rehabil Med,2022,INCORRECT,INCORRECT,
+36598342,Eur J Phys Rehabil Med,2023,INCORRECT,INCORRECT,"Normality test applied to pooled/raw dependent variables, not residuals or per-group."
+34985236,Eur J Phys Rehabil Med,2022,INCORRECT,INCORRECT,
+35666489,Eur J Phys Rehabil Med,2022,ACCEPTABLE,INCORRECT,"Normality test applied to pooled variables, not residuals or per-group."
+35412037,Eur J Phys Rehabil Med,2022,INCORRECT,INCORRECT,
+34498832,Eur J Phys Rehabil Med,2022,INCORRECT,ACCEPTABLE,
+34652084,Eur J Phys Rehabil Med,2022,INCORRECT,INCORRECT,
+34196161,Eur J Phys Rehabil Med,2022,INCORRECT,INCORRECT,
+34605619,Eur J Phys Rehabil Med,2022,INCORRECT,INCORRECT,
+34985237,Eur J Phys Rehabil Med,2022,MIXED,CORRECT,
+34786906,Eur J Phys Rehabil Med,2022,INCORRECT,INCORRECT,
+34870387,Eur J Phys Rehabil Med,2022,INCORRECT,INCORRECT,
+35191654,Eur J Phys Rehabil Med,2022,INCORRECT,INCORRECT,
+34498833,Eur J Phys Rehabil Med,2022,INCORRECT,INCORRECT,
+36305651,Eur J Phys Rehabil Med,2023,INCORRECT,INCORRECT,"Normality test applied to pooled data, not residuals or per-group."
+32935956,Eur J Phys Rehabil Med,2020,INCORRECT,INCORRECT,Unqualified statement about testing the variable for normality.
+39493681,J Phys Ther Sci,2024,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group.
+37131347,J Phys Ther Sci,2023,INCORRECT,ACCEPTABLE,Normality tested separately within each group or side.
+39493684,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+39624349,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Tests normality on raw variables, not residuals or per-group."
+39493682,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test on unqualified 'data', not residuals or per-group."
+39493689,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test applied to pooled/raw outcome data, not residuals or per-group."
+39624347,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+39493688,J Phys Ther Sci,2024,INCORRECT,INCORRECT,Normality test applied to unqualified 'data distribution'.
+38952460,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test on pooled/raw continuous variables, not residuals or per-group."
+38562534,J Phys Ther Sci,2024,ACCEPTABLE,ACCEPTABLE,Normality tested separately for men and women groups.
+37131356,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality tested on analyzed data, not residuals or per-group."
+39239422,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Shapiro-Wilk test applied to pooled/raw data, not residuals or per-group."
+37405187,J Phys Ther Sci,2023,INCORRECT,INCORRECT,Normality test applied to pooled data without group distinction.
+35400839,J Phys Ther Sci,2022,INCORRECT,INCORRECT,Data normality tested without specifying residuals or per-group.
+39354923,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+39354931,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test applied to each measurement item, not residuals or per-group."
+37915454,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to overall data, not residuals or per group."
+39493680,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+39092411,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+39239403,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test on pooled/raw variables, not residuals or per-group."
+39624344,J Phys Ther Sci,2024,INCORRECT,INCORRECT,Normality test applied to all data without specifying residuals or groups.
+39624351,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+39092414,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality tested on results, not residuals or per-group."
+39092417,J Phys Ther Sci,2024,INCORRECT,INCORRECT,Data checked without specifying residuals or groups.
+38694008,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+39092420,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test on pooled/raw variables, not residuals or per-group."
+37915458,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+39239416,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Shapiro–Wilk test on all data, not residuals or per-group."
+39239408,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality tested on data, not residuals or per-group."
+37131344,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to unqualified 'distribution', not residuals or per-group."
+39239404,J Phys Ther Sci,2024,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+38562531,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Tests applied to pooled data, not residuals or per-group."
+38694018,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Tests normality on pooled/raw variables, not residuals or per-group."
+38562533,J Phys Ther Sci,2024,INCORRECT,INCORRECT,Unqualified statement about testing variables for normality.
+39239413,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test applied to all data, not residuals or per-group."
+35400833,J Phys Ther Sci,2022,INCORRECT,INCORRECT,Shapiro–Wilk test applied to pooled data without specifying residuals or groups.
+33519073,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Data tested as a whole, not residuals or per-group."
+34658512,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+38694016,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"No clear target mentioned, implies pooled/raw data."
+38694006,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+38832220,J Phys Ther Sci,2024,INCORRECT,UNCLEAR,No clear target for normality test described.
+37266368,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+38434992,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+33814712,J Phys Ther Sci,2021,INCORRECT,ACCEPTABLE,"Normality tested for each index, not residuals or pooled data."
+38434995,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Unqualified statement about normality test on data, not residuals or per-group."
+35784603,J Phys Ther Sci,2022,ACCEPTABLE,ACCEPTABLE,"Normality tested within groups, not residuals or pooled data."
+36744197,J Phys Ther Sci,2023,INCORRECT,INCORRECT,Shapiro–Wilk test applied to data without specifying residuals or groups.
+37915457,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality assessed on pooled/raw data, not residuals or per-group."
+37529060,J Phys Ther Sci,2023,INCORRECT,INCORRECT,Unqualified statement about testing data for normality.
+37791000,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to raw quantitative variables, not residuals or per-group."
+37266355,J Phys Ther Sci,2023,INCORRECT,ACCEPTABLE,"Normality checked within each tilt direction and site, not residuals or pooled data."
+36337217,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"Normality test on unqualified 'data', not residuals or per-group."
+38694004,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+38832215,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+37405184,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to pooled data, not residuals or per-group."
+38304149,J Phys Ther Sci,2024,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+37529059,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+36866016,J Phys Ther Sci,2023,INCORRECT,INCORRECT,Normality test applied to raw data without specifying residuals or groups.
+38075512,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality assessed on unqualified 'data', not residuals or per-group."
+38075513,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+37670756,J Phys Ther Sci,2023,INCORRECT,UNCLEAR,No clear target for normality test mentioned.
+36628139,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to pooled/raw measures, not residuals or per-group."
+35291478,J Phys Ther Sci,2022,ACCEPTABLE,INCORRECT,Normality test applied to data without specifying residuals or groups.
+38434998,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test on unqualified 'data', not residuals or per-group."
+37915451,J Phys Ther Sci,2023,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+37266359,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+36507081,J Phys Ther Sci,2022,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+37131349,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test on unqualified 'data set', not residuals or per-group."
+35400841,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"Normality test applied to pooled data, not residuals or per-group."
+36866006,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality assessed on unqualified 'data', not residuals or per-group."
+36866008,J Phys Ther Sci,2023,INCORRECT,INCORRECT,Data normality assessed without specifying residuals or groups.
+35400832,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"Normality test applied to pooled data, not residuals or per-group."
+37266357,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+37131350,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+35035071,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"Normality test applied to pooled/raw parameters, not residuals or per-group."
+36866021,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality assessed on unqualified 'data', not residuals or per-group."
+35221518,J Phys Ther Sci,2022,INCORRECT,INCORRECT,Normality checked on variables without specifying residuals or groups.
+35291473,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+36866012,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to pooled data, not residuals or per-group."
+35937625,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"No specific target mentioned, assumes pooled/raw data."
+36628149,J Phys Ther Sci,2023,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+35527841,J Phys Ther Sci,2022,INCORRECT,INCORRECT,Unqualified statement about data normality.
+32158074,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Shapiro-Wilk test applied to unqualified 'data', not residuals or per-group."
+35698552,J Phys Ther Sci,2022,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+35400840,J Phys Ther Sci,2022,INCORRECT,INCORRECT,Shapiro-Wilk test used on unqualified 'continuous variables'.
+36744201,J Phys Ther Sci,2023,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+36866013,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Unqualified normality test on unspecified data, not residuals or per-group."
+38186966,J Phys Ther Sci,2024,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+36118662,J Phys Ther Sci,2022,INCORRECT,ACCEPTABLE,Normality tested separately within each group.
+36744198,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to pooled/raw endpoints, not residuals or per-group."
+33814704,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality test on pooled/raw outcome data, not residuals or per-group."
+34083880,J Phys Ther Sci,2021,INCORRECT,ACCEPTABLE,Normality checked within fall and non-fall groups separately.
+32753788,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+37405182,J Phys Ther Sci,2023,INCORRECT,ACCEPTABLE,"Tests conducted within groups, not residuals or pooled data."
+36866007,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to pooled/raw outcomes, not residuals or per-group."
+37020831,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+36628136,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to pooled/raw parameters, not residuals or per-group."
+35784609,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+36507077,J Phys Ther Sci,2022,INCORRECT,INCORRECT,Normality test applied to pooled/raw continuous variables.
+35400830,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+35698557,J Phys Ther Sci,2022,INCORRECT,INCORRECT,Unqualified statement about data distribution test.
+36213194,J Phys Ther Sci,2022,INCORRECT,INCORRECT,Normality test applied to pooled/raw continuous variables.
+35291468,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"Shapiro-Wilk test on unqualified 'data', not residuals or per-group."
+36866003,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality tested on unqualified 'data', not residuals or per-group."
+35527839,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"Normality tested on parameters, not residuals or per-group."
+33814703,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+32753783,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Shapiro-Wilk test applied to pooled/raw variables, not residuals or per-group."
+33935357,J Phys Ther Sci,2021,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+36744193,J Phys Ther Sci,2023,INCORRECT,INCORRECT,Normality assessed without specifying residuals or per-group data.
+33281297,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Normality test on pooled/raw data, not residuals or per-group."
+34776618,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+34776619,J Phys Ther Sci,2021,INCORRECT,INCORRECT,Normality test applied to unqualified 'data sets'.
+34393367,J Phys Ther Sci,2021,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+32982047,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Normality test on pooled/raw variables, not residuals or per-group."
+36866015,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality assessed on parameters, not residuals or per-group."
+34393372,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Tests normality of variables, not residuals or within groups."
+35221517,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+32184541,J Phys Ther Sci,2020,INCORRECT,INCORRECT,Tests applied to data without specifying residuals or groups.
+35221516,J Phys Ther Sci,2022,INCORRECT,INCORRECT,Data tested without specifying residuals or groups.
+33519076,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+35937631,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"Normality assessed on pooled/raw data, not residuals or per-group."
+34539071,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Tests normality of unqualified 'scale score', not residuals or per-group."
+34873370,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality tested on variables, not residuals or per-group."
+35291475,J Phys Ther Sci,2022,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without residuals or per-group mention.
+35698558,J Phys Ther Sci,2022,INCORRECT,INCORRECT,Data tested without specifying residuals or groups.
+35400836,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"Normality assessed on unqualified 'data', not residuals or per-group."
+35784606,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+34776623,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+35784608,J Phys Ther Sci,2022,INCORRECT,INCORRECT,Data assessed without specifying residuals or per-group analysis.
+38694011,J Phys Ther Sci,2024,INCORRECT,INCORRECT,Normality test applied to pooled baseline data without specifying residuals or groups.
+36628148,J Phys Ther Sci,2023,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+34393366,J Phys Ther Sci,2021,INCORRECT,INCORRECT,Data tested without specifying residuals or groups.
+33362348,J Phys Ther Sci,2020,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without residuals or per-group mention.
+34658514,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+36118659,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"Normality test applied to pooled data, not residuals or per-group."
+33281288,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Normality tested on data, not residuals or per-group."
+38562538,J Phys Ther Sci,2024,INCORRECT,UNCLEAR,No specific normality test target mentioned.
+35291479,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"Normality test applied to pooled/raw measurements, not residuals or per-group."
+32982053,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+33132530,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+33362357,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Normality test applied to pooled data, not residuals or per-group."
+29643575,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test on outcome variables, not residuals or per-group."
+32038067,J Phys Ther Sci,2019,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+35698549,J Phys Ther Sci,2022,INCORRECT,UNCLEAR,No clear target for normality test described.
+26157243,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+34658513,J Phys Ther Sci,2021,INCORRECT,INCORRECT,Normality test applied to raw data without specifying residuals or groups.
+34776614,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality test applied to pooled data, not residuals or per-group."
+34083878,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality test applied to raw data, not residuals or per-group."
+33281285,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Normality test applied to unqualified 'variables', not residuals or per-group."
+35221510,J Phys Ther Sci,2022,INCORRECT,INCORRECT,Unqualified statement about testing data for normality.
+34539065,J Phys Ther Sci,2021,INCORRECT,INCORRECT,Unqualified statement about testing data normality.
+34219959,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+34177106,J Phys Ther Sci,2021,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+33935356,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+34083885,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+35221514,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+34083883,J Phys Ther Sci,2021,INCORRECT,INCORRECT,Data checked without specifying residuals or groups.
+34219962,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality test applied to all data, not residuals or per-group."
+28878476,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to pooled COM displacement data, not residuals or per-group."
+33642688,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Tests applied to pooled/raw variables, not residuals or per-group."
+32273651,J Phys Ther Sci,2020,MIXED,CORRECT,Normality of residuals was assessed using Shapiro-Wilk test.
+33935354,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26834336,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Tests applied to variables, not residuals or per-group."
+31037018,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality tested on pooled/raw variables, not residuals or per-group."
+27799674,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+33814718,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Shapiro-Wilk test applied to all data, not residuals or per-group."
+32982056,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Normality test applied to pooled/raw variables, not residuals or per-group."
+29643608,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+30349174,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26644658,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality tested on variable distributions, not residuals or per-group."
+29643588,J Phys Ther Sci,2017,ACCEPTABLE,INCORRECT,"Normality test applied to pooled/general characteristics, not residuals or per-group."
+33814710,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Shapiro-Wilk test on unqualified 'data', not residuals or per-group."
+33132528,J Phys Ther Sci,2020,INCORRECT,INCORRECT,Normality tested on all variables without specifying residuals or groups.
+29410562,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality tested on pooled/raw data, not residuals or per-group."
+30034094,J Phys Ther Sci,2018,INCORRECT,UNCLEAR,No clear normality test target described.
+33362354,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+30858650,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality test applied to pooled data, not residuals or per-group."
+29410578,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+28174464,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Data tested without specifying residuals or groups.
+27390406,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to pooled data, not residuals or per-group."
+33935364,J Phys Ther Sci,2021,INCORRECT,INCORRECT,Unqualified statement about testing data distribution.
+32581428,J Phys Ther Sci,2020,INCORRECT,INCORRECT,Shapiro-Wilk test mentioned without specifying residuals or per-group target.
+31871367,J Phys Ther Sci,2019,INCORRECT,UNCLEAR,No clear target for normality test described.
+29950781,J Phys Ther Sci,2018,INCORRECT,UNCLEAR,No clear normality test target described.
+32425353,J Phys Ther Sci,2020,INCORRECT,INCORRECT,Normality test applied to all data without specifying residuals or groups.
+33362350,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+33642682,J Phys Ther Sci,2021,INCORRECT,INCORRECT,Normality test applied to pooled/raw dependent variables.
+30154614,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to pooled/raw variables, not residuals or per-group."
+33519066,J Phys Ther Sci,2021,INCORRECT,INCORRECT,Shapiro-Wilk test applied without specifying residuals or per-group data.
+26504291,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw F-wave data, not residuals or per-group."
+33281291,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Shapiro-Wilk test applied to pooled/raw data, not residuals or per-group."
+29410587,J Phys Ther Sci,2018,INCORRECT,UNCLEAR,No clear normality test target described.
+26957726,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality tests applied to pooled data, not residuals or per-group."
+33642681,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+33132521,J Phys Ther Sci,2020,INCORRECT,INCORRECT,Normality check without specifying residuals or per-group data.
+29184291,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+32158075,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+34177111,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality test applied to all data, not residuals or per-group."
+29200620,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Tests applied to dependent variables, not residuals or per-group."
+32184534,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Normality test on unqualified 'extracted data', not residuals or per-group."
+32581426,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+31871376,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+31871381,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Shapiro-Wilk test on unqualified 'data', not residuals or per-group."
+27512247,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality assessed on unqualified 'data', not residuals or per-group."
+30349154,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+28265138,J Phys Ther Sci,2017,INCORRECT,UNCLEAR,No specific normality test target mentioned.
+28356638,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Tests applied to variables, not residuals or per-group."
+31036998,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+31417226,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+31527997,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+32158069,J Phys Ther Sci,2020,INCORRECT,INCORRECT,Normality test applied to pooled/raw continuous variables.
+31645808,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality test on all variables, not residuals or per-group."
+31645806,J Phys Ther Sci,2019,INCORRECT,INCORRECT,Normality test applied to unqualified 'variables'.
+32884167,J Phys Ther Sci,2020,ACCEPTABLE,ACCEPTABLE,Normality tested in both groups before experiments.
+31417212,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality test on results, not residuals or per-group."
+27821923,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+27799694,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Shapiro-Wilk test applied to data without specifying residuals or groups.
+29643586,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to raw data, not residuals or per-group."
+27821933,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+30568339,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+29765186,J Phys Ther Sci,2018,INCORRECT,INCORRECT,Tests normality of pooled/raw data without specifying residuals or groups.
+31871371,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality assessed on variables, not residuals or per-group."
+30936637,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality assessed on parameters, not residuals or per-group."
+30214116,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+29545706,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+29410564,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+27942133,J Phys Ther Sci,2016,ACCEPTABLE,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+31037005,J Phys Ther Sci,2019,INCORRECT,ACCEPTABLE,Normality tested separately within each group using Shapiro-Wilk test.
+28931985,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Shapiro-Wilk test applied to data without specifying residuals or groups.
+34873377,J Phys Ther Sci,2021,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+29200616,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+30936646,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+29410573,J Phys Ther Sci,2018,INCORRECT,ACCEPTABLE,"Shapiro-Wilk test applied within each subject, not residuals or pooled data."
+32158073,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Normality tested on pooled/raw data, not residuals or per-group."
+26834354,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to pooled F-wave data, not residuals or per-group."
+26834351,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+29200634,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+30858663,J Phys Ther Sci,2019,INCORRECT,ACCEPTABLE,Shapiro-Wilk test conducted within pain and no pain groups.
+28533619,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Shapiro-Wilk test applied to data without specifying residuals or groups.
+29184302,J Phys Ther Sci,2017,ACCEPTABLE,ACCEPTABLE,Normality tested within each group separately.
+31164777,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality test applied to unqualified 'values', not residuals or per-group."
+29545680,J Phys Ther Sci,2018,INCORRECT,UNCLEAR,Lacks clarity on whether residuals or raw data were tested.
+28265172,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to pooled predictor variables, not residuals or per-group."
+26644656,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality tested on variables, not residuals or per-group."
+31645803,J Phys Ther Sci,2019,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+29643584,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Unqualified statement about normal distribution test.
+36628147,J Phys Ther Sci,2023,INCORRECT,INCORRECT,Normality tested on pooled/raw data without residuals or per-group mention.
+31037008,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+31871373,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality test applied to raw variables, not residuals or per-group."
+28603357,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Tests applied to dependent variables, not residuals or per-group."
+32082032,J Phys Ther Sci,2020,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+28356646,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Normality test on unqualified 'outcome variables'.
+30568340,J Phys Ther Sci,2018,INCORRECT,INCORRECT,Normality assessed on pooled/raw data without residuals or per-group mention.
+28744048,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+27630410,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Shapiro-Wilk test on variables, not residuals or per-group."
+31417225,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+29581659,J Phys Ther Sci,2018,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+30349172,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+31037007,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Shapiro Wilk test used on unqualified 'data', not residuals or per-group."
+27134401,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test on pooled/raw measured values, not residuals or per-group."
+31037019,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+32082031,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Shapiro-Wilk test on unqualified 'data', not residuals or per-group."
+27313386,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+28878449,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+29184310,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+29133972,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+29581671,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to dependent variables, not residuals or per-group."
+26311979,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying groups or residuals.
+30568330,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to all parameters, not residuals or per-group."
+28356648,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test on unqualified 'data', not residuals or per-group."
+31417221,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality test applied to pooled/raw variables, not residuals or per-group."
+28533589,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Data tested without specifying residuals or groups.
+29184300,J Phys Ther Sci,2017,INCORRECT,ACCEPTABLE,Normality tested separately within experimental and control groups.
+35784605,J Phys Ther Sci,2022,INCORRECT,INCORRECT,"Tests normality on unqualified 'data', not residuals or per-group."
+27942123,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test on unqualified 'data', not residuals or per-group."
+28265143,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Unqualified statement about testing data for normality.
+30858662,J Phys Ther Sci,2019,ACCEPTABLE,INCORRECT,Test applied to variables without specifying residuals or per-group.
+28744049,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+27064981,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Unqualified statement about testing data for normality.
+26696725,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test on outcome variables, not residuals or per-group."
+27313356,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+27799691,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test on variables, not residuals or per-group."
+27390425,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+30349169,J Phys Ther Sci,2018,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+30349165,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality tested on measured values, not residuals or per-group."
+31037016,J Phys Ther Sci,2019,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26644697,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+25995542,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Normality test applied to raw data without residuals or per-group context.
+27630413,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to pooled/raw measurement data, not residuals or per-group."
+27630434,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Shapiro-Wilk test applied without specifying residuals or per-group data.
+28626311,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Unqualified normality test on unspecified data, not residuals or per-group."
+32158077,J Phys Ther Sci,2020,INCORRECT,INCORRECT,Normality test applied to all dependent variables without specifying residuals or groups.
+29706710,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to pooled outcome variables, not residuals or per-group."
+30464372,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+28932007,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+25995561,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+28931993,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Tests normality on pooled/raw data without specifying residuals or groups.
+29200650,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+30034102,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test on unqualified 'data', not residuals or per-group."
+27630407,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Tests normality of variables, not residuals or per-group."
+26696727,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to raw items, not residuals or per-group."
+28878478,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+29545690,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+29950758,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to pooled/raw variables, not residuals or per-group."
+28356650,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality check unqualified, implies pooled/raw data."
+27313351,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+27512286,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+26357424,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Shapiro-Wilk test on dependent variables, not residuals or per-group."
+30568324,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+28265151,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to unqualified 'variables', not residuals or per-group."
+27799662,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+27799685,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'subjects', not residuals or per-group."
+30154601,J Phys Ther Sci,2018,ACCEPTABLE,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+27942131,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified variables, not residuals or per-group."
+28603366,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Tests applied to all variables without specifying residuals or groups.
+25729169,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test on pooled/raw measured values, not residuals or per-group."
+28744047,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying groups or residuals.
+29643601,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Unqualified normality test on 'measurement variables'.
+27065545,J Phys Ther Sci,2016,MIXED,CORRECT,"Normality test applied to residuals, not pooled data."
+26834344,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Normality test applied to data without specifying residuals or groups.
+27799686,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Tests applied to pooled/raw variables, not residuals or per-group."
+27942152,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Shapiro-Wilk test applied to slopes without specifying residuals or groups.
+27942122,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Test applied to pooled/raw data, not residuals or per-group."
+26180316,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test on unqualified 'data', not residuals or per-group."
+26157261,J Phys Ther Sci,2015,ACCEPTABLE,ACCEPTABLE,Normality tested within each group separately.
+28356629,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test on pooled/raw data, not residuals or per-group."
+28626324,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality tested on all measurement data, not residuals or per-group."
+28265142,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Test applied to variables, not residuals or within groups."
+30349152,J Phys Ther Sci,2018,INCORRECT,UNCLEAR,No normality test target specified or described.
+27630424,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+27134392,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test on unqualified 'variables', not residuals or per-group."
+26644663,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Unqualified statement about testing data for normality.
+26180329,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+31037001,J Phys Ther Sci,2019,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+27630439,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+27313394,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+29581655,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+28174473,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Normality test applied to pooled data without group conditioning.
+27821958,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test on all data, not residuals or per-group."
+26157239,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+28744035,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Unqualified statement about testing data for normality.
+29706721,J Phys Ther Sci,2018,INCORRECT,UNCLEAR,Lacks specification on what was tested for normality.
+29706697,J Phys Ther Sci,2018,INCORRECT,ACCEPTABLE,Normality tested separately for fallers and non-fallers within each disease group.
+25995572,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+27390440,J Phys Ther Sci,2016,INCORRECT,UNCLEAR,No clear target for normality test described.
+27390436,J Phys Ther Sci,2016,INCORRECT,ACCEPTABLE,Normality tested separately within each group side.
+26180359,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Data tested for normality without specifying residuals or groups.
+26957750,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+26834346,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+27134386,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Test applied to pooled/raw data, not residuals or per-group."
+28210050,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to pooled data, not residuals or per-group."
+28265170,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Unqualified statement about testing variables for normality.
+28265153,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality checked on measured variables, not residuals or per-group."
+27313393,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+26157233,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+28603375,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Shapiro-Wilk test used without specifying residuals or per-group data.
+29581654,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+28174431,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Unqualified statement about testing all data for normality.
+28603367,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+26957767,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Data normality tested without specifying residuals or per-group.
+27630414,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+27942108,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Shapiro-Wilk test on unqualified 'general properties and outcome measures'.
+25995549,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Data tested without specifying residuals or groups.
+26504339,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Unqualified statement about testing data for normality.
+27799661,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Shapiro-Wilk test applied to pooled/raw data, not residuals or per-group."
+28931994,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+30154603,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to pooled/raw variables, not residuals or per-group."
+27630422,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to pooled/raw variables, not residuals or per-group."
+27799716,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test on pooled/raw data, not residuals or per-group."
+30154600,J Phys Ther Sci,2018,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26157210,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+27064889,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to pooled data, not residuals or per-group."
+26157207,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+25931686,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Data tested for normality without specifying residuals or groups.
+27065223,J Phys Ther Sci,2016,ACCEPTABLE,ACCEPTABLE,"Normality tested within both groups, not residuals or pooled data."
+26834363,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Unqualified statement about testing for normality.
+27630426,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+26311933,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+34219964,J Phys Ther Sci,2021,INCORRECT,INCORRECT,Normality tested without specifying residuals or per-group data.
+27313372,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+28174463,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Shapiro-Wilk test mentioned without specifying residuals or per-group data.
+26834356,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw variables, not residuals or per-group."
+26504314,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Unqualified statement about testing data for normality.
+26957721,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test on unqualified 'variables', not residuals or per-group."
+27512288,J Phys Ther Sci,2016,INCORRECT,ACCEPTABLE,"Shapiro-Wilk test applied within groups, not residuals or pooled data."
+25729181,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Tests applied to dependent variables, not residuals or per-group."
+26696701,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Unqualified statement about testing data for normality.
+28356622,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+26696707,J Phys Ther Sci,2015,INCORRECT,UNCLEAR,Lacks specific mention of normality test target.
+28356614,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+27134353,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+27134356,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+28265163,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+27313381,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Shapiro-Wilk test on unqualified 'data', not residuals or per-group."
+25995541,J Phys Ther Sci,2015,INCORRECT,ACCEPTABLE,Within group comparisons indicate per-group normality testing.
+28603361,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Shapiro-Wilk test on all parameters, not residuals or per-group."
+27390404,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'variables', not residuals or per-group."
+28603353,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality assessed on parameters, not residuals or per-group."
+27390415,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Normality test applied to unqualified 'data distribution'.
+27799677,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Shapiro-Wilk test applied to pooled/raw data, not residuals or per-group."
+27799675,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+26957765,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+28533609,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Tests applied to continuous variables, not residuals or per-group."
+27190435,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+27799679,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Normality test on unqualified 'numerical variables'.
+26957739,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+28533599,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Tests applied to pooled/raw data, not residuals or per-group."
+26157262,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Tests normality on unqualified 'data', not residuals or per-group."
+28744042,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+26834345,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to all variables, not residuals or per-group."
+27064250,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Data tested without specifying residuals or groups.
+26834328,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Tests normality on pooled/raw variables, not residuals or per-group."
+26834317,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+27134389,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality assessed on variables, not residuals or per-group."
+27065534,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality tested on variables, not residuals or within groups."
+27512276,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+28356618,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+27190462,J Phys Ther Sci,2016,ACCEPTABLE,INCORRECT,Data tested without specifying residuals or per-group analysis.
+26644652,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test on pooled/raw data, not residuals or per-group."
+27190456,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Tests applied to pooled/raw data, not residuals or per-group."
+26157267,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26157224,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Shapiro-Wilk test on unqualified 'data', not residuals or per-group."
+26157219,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Shapiro-Wilk test applied to pooled/raw data without specifying groups or residuals.
+26957738,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test on pooled/raw data, not residuals or per-group."
+28603345,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+26180343,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw dependent variables, not residuals or per-group."
+27064768,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to pooled outcome variables, not residuals or per-group."
+25931757,J Phys Ther Sci,2015,INCORRECT,UNCLEAR,No specific target for normality test mentioned.
+26834320,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test on outcome variables, not residuals or per-group."
+28931976,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+26311937,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Unqualified statement about testing normality of results.
+27313366,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+27190454,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Tests for normality on all outcomes without specifying residuals or groups.
+28174465,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+27190464,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+28932004,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to pooled outcome variables, not residuals or per-group."
+26834339,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Unqualified statement about testing data for normality.
+27190467,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Normality test applied to numeric variables without specifying residuals or groups.
+26355721,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26834342,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Tests for normality applied to outcomes without specifying residuals or groups.
+27512287,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+25931687,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Tests normality on unqualified 'results', not residuals or per-group."
+27512259,J Phys Ther Sci,2016,ACCEPTABLE,INCORRECT,Data tested without specifying residuals or per-group.
+26696703,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+28603365,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality checked on unqualified 'data', not residuals or per-group."
+27134381,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+26180296,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Tests normality on unqualified 'variables', not residuals or per-group."
+26356643,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test on raw data, not residuals or per-group."
+29643591,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Shapiro-Wilk test applied to overall data, not residuals or per-group."
+27799699,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Normality test applied to unqualified 'data'.
+26957771,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Shapiro-Wilk test applied to variables, not residuals or per-group."
+26157260,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw variables, not residuals or per-group."
+26504324,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+26834327,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+26957752,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test on continuous variables, not residuals or per-group."
+27065524,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Shapiro-Wilk test used on unqualified 'data set'.
+27630421,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+27190476,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26311968,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Shapiro-Wilk test on pooled/raw data, not residuals or per-group."
+26310884,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+28878457,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Shapiro-Wilk test applied to pooled/raw data, not residuals or per-group."
+27065521,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test on unqualified 'data', not residuals or per-group."
+26311928,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+25931742,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+25931701,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Tests normality on pooled/raw data, not residuals or per-group."
+27512267,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Assesses normality of pooled/raw data, not residuals or per-group."
+27512255,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to outcome variables, not residuals or per-group."
+27512249,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to continuous variables, not residuals or per-group."
+27134406,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+27821947,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Normality test on unqualified 'measuring variable'.
+27821916,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Normality test applied to all variables without specifying residuals or groups.
+25729193,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality tests on variables, not residuals or per-group."
+26157266,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26157236,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Tests applied to pooled/raw data, not residuals or per-group."
+25729173,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Data tested without specifying residuals or groups.
+25642030,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to continuous variables, not residuals or per-group."
+25642068,J Phys Ther Sci,2015,ACCEPTABLE,INCORRECT,"Data within groups, not residuals or pooled data."
+26834334,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+32753780,J Phys Ther Sci,2020,INCORRECT,INCORRECT,Normality test applied to pooled data without residuals or per-group mention.
+28744054,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+25995565,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+27134390,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+27134366,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Unqualified statement about data normality test.
+26696698,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to pooled data, not residuals or per-group."
+25931752,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Normality test applied to unqualified 'data distribution'.
+28174446,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Normality test applied to unqualified 'distribution'.
+27390414,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26180290,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+26311919,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Tests applied to variables without specifying residuals or groups.
+26180315,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26644688,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26180358,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Data tested without specifying residuals or groups.
+26957759,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group.
+26957775,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+25995538,J Phys Ther Sci,2015,ACCEPTABLE,ACCEPTABLE,Normality tested separately within each group.
+25995579,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Shapiro-Wilk test on unqualified 'collected data'.
+27065526,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+27064327,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+27065544,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality tested on variables, not residuals or per-group."
+25642050,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test on unqualified 'general characteristics', not residuals or per-group."
+27065527,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to pooled/raw variables, not residuals or per-group."
+27065543,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26357448,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"No clear target mentioned, implies pooled data."
+27799667,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+28174448,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+26311960,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+26310784,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group.
+27313341,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+25931744,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+25931726,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+25729203,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test on pooled/raw outcome data, not residuals or per-group."
+26180349,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Normality test applied to pooled/raw dependent variables.
+26644685,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Unqualified statement about testing data for normality.
+26957719,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Shapiro-Wilk test applied to baseline characteristics, not residuals or per-group."
+32273653,J Phys Ther Sci,2020,INCORRECT,UNCLEAR,No specific normality test target described.
+26504298,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+27190466,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Assesses variables without specifying residuals or groups.
+26157237,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Data tested without specifying residuals or groups.
+27065519,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+25642038,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Unqualified statement about testing data distribution.
+26157227,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26157221,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Shapiro-Wilk test on unqualified 'data', not residuals or per-group."
+26157272,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+26834381,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Shapiro-Wilk test on all parameters, not residuals or per-group."
+25642087,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Normality test applied to pooled/raw continuous variables.
+27313390,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Shapiro-Wilk test on unqualified 'data', not residuals or per-group."
+26311969,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw variables, not residuals or per-group."
+27821967,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Data assessed without specifying residuals or per-group testing.
+31417215,J Phys Ther Sci,2019,INCORRECT,UNCLEAR,No specific normality test target mentioned.
+26504337,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26157206,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality assessed on unqualified 'data', not residuals or per-group."
+27799700,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+32581429,J Phys Ther Sci,2020,INCORRECT,INCORRECT,"Normality tested on unqualified 'data', not residuals or per-group."
+26180340,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test on unqualified 'data', not residuals or per-group."
+26834321,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Data tested for normality without specifying residuals or groups.
+26157271,J Phys Ther Sci,2015,ACCEPTABLE,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26157235,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Normality test applied to unqualified 'distribution'.
+25995564,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+25931747,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Variables tested without specifying residuals or per-group analysis.
+31871372,J Phys Ther Sci,2019,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+25931704,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+26180294,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Shapiro-Wilk test applied to data without specifying residuals or groups.
+26696721,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Normality tested on data without specifying residuals or groups.
+26696740,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26644678,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to raw assessments, not residuals or per-group."
+25931716,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Shapiro-Wilk test on unqualified 'data distribution'.
+25642036,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality assessed on pooled/raw data, not residuals or per-group."
+25931749,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+25931713,J Phys Ther Sci,2015,ACCEPTABLE,INCORRECT,"Tests applied to pooled variables, not residuals or per-group."
+28878471,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Normality test applied to variables without specifying residuals or groups.
+29643576,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+28878461,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test on variables, not residuals or per-group."
+28603356,J Phys Ther Sci,2017,INCORRECT,INCORRECT,Unqualified statement about testing all participants for normality.
+28603362,J Phys Ther Sci,2017,INCORRECT,UNCLEAR,No specific normality test target mentioned.
+28265160,J Phys Ther Sci,2017,ACCEPTABLE,INCORRECT,"Normality test on unqualified 'data', not residuals or per-group."
+27512265,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Data normality verified without specifying residuals or per-group testing.
+27512285,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Normality test on pooled/raw data, not residuals or per-group."
+27821951,J Phys Ther Sci,2016,INCORRECT,INCORRECT,Data screened for normality without specifying residuals or groups.
+28210045,J Phys Ther Sci,2017,INCORRECT,INCORRECT,"Normality test on pooled/raw data, not residuals or per-group."
+27313340,J Phys Ther Sci,2016,ACCEPTABLE,INCORRECT,"Normality test on pooled/raw data, not residuals or per-group."
+26644695,J Phys Ther Sci,2015,INCORRECT,INCORRECT,"Unqualified statement about normality of measures, not residuals or per-group."
+27134384,J Phys Ther Sci,2016,INCORRECT,INCORRECT,"Tests applied to pooled/raw variables, not residuals or per-group."
+25729185,J Phys Ther Sci,2015,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying groups or residuals.
+29738929,Musculoskelet Sci Pract,2018,INCORRECT,INCORRECT,"Normality test applied to raw scores, not residuals or per-group."
+33947615,J Hand Ther,2022,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+27773588,J Hand Ther,2016,CORRECT,CORRECT,"Normality test based on residuals, not pooled data or groups."
+37979248,Braz J Phys Ther,2023,MIXED,MIXED,
+38964202,Braz J Phys Ther,2024,INCORRECT,INCORRECT,"Shapiro-Wilk test on unqualified 'data', not residuals or per-group."
+39260020,Braz J Phys Ther,2024,INCORRECT,INCORRECT,
+38394720,Braz J Phys Ther,2024,INCORRECT,ACCEPTABLE,
+38943742,Braz J Phys Ther,2024,INCORRECT,INCORRECT,
+39476510,Braz J Phys Ther,2024,INCORRECT,INCORRECT,"Normality assessed on raw variables, not residuals or per-group."
+39146868,Braz J Phys Ther,2024,INCORRECT,INCORRECT,
+39509929,Braz J Phys Ther,2024,INCORRECT,INCORRECT,
+39094214,Braz J Phys Ther,2024,INCORRECT,INCORRECT,
+38696973,Braz J Phys Ther,2024,INCORRECT,INCORRECT,
+34001424,Braz J Phys Ther,2021,MIXED,MIXED,
+38943740,Braz J Phys Ther,2024,INCORRECT,INCORRECT,Normality tested on data without specifying residuals or groups.
+38217948,Braz J Phys Ther,2024,MIXED,CORRECT,
+37603935,Braz J Phys Ther,2023,INCORRECT,INCORRECT,
+35364349,Braz J Phys Ther,2022,MIXED,INCORRECT,
+37146510,Braz J Phys Ther,2023,INCORRECT,INCORRECT,
+37801775,Braz J Phys Ther,2023,INCORRECT,INCORRECT,
+36738662,Braz J Phys Ther,2023,INCORRECT,INCORRECT,
+37827018,Braz J Phys Ther,2023,INCORRECT,INCORRECT,
+35104749,Braz J Phys Ther,2022,INCORRECT,INCORRECT,
+37862916,Braz J Phys Ther,2023,INCORRECT,INCORRECT,
+35489300,Braz J Phys Ther,2022,INCORRECT,INCORRECT,
+34348864,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+37572382,Braz J Phys Ther,2023,INCORRECT,INCORRECT,
+37639944,Braz J Phys Ther,2023,INCORRECT,INCORRECT,
+37566990,Braz J Phys Ther,2023,INCORRECT,INCORRECT,
+35487097,Braz J Phys Ther,2022,INCORRECT,INCORRECT,
+32739110,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+32507484,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+36470091,Braz J Phys Ther,2022,INCORRECT,INCORRECT,
+36709694,Braz J Phys Ther,2023,MIXED,CORRECT,
+35696813,Braz J Phys Ther,2022,INCORRECT,INCORRECT,
+37201307,Braz J Phys Ther,2023,INCORRECT,INCORRECT,Data distribution tested without specifying residuals or groups.
+37001362,Braz J Phys Ther,2023,INCORRECT,INCORRECT,
+36283240,Braz J Phys Ther,2022,INCORRECT,INCORRECT,
+34023212,Braz J Phys Ther,2021,MIXED,MIXED,
+36372043,Braz J Phys Ther,2022,INCORRECT,UNCLEAR,
+34119444,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+35063698,Braz J Phys Ther,2022,INCORRECT,INCORRECT,
+34810107,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+35870253,Braz J Phys Ther,2022,INCORRECT,INCORRECT,
+35567923,Braz J Phys Ther,2022,MIXED,MIXED,
+32563663,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+35636062,Braz J Phys Ther,2022,INCORRECT,INCORRECT,
+33722507,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+34824001,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+34535410,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+34863644,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+32773287,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+32151526,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+32553415,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+33658164,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+35151026,Braz J Phys Ther,2022,INCORRECT,INCORRECT,
+33642120,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+31561961,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+34247947,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+34119441,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+33824059,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+34030951,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+34001426,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+32070652,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+32962913,Braz J Phys Ther,2021,CORRECT,CORRECT,
+33840592,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+31375458,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+33248904,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+34119442,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+32988779,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+28734576,Braz J Phys Ther,2017,INCORRECT,INCORRECT,Data tested without specifying residuals or groups.
+34045123,Braz J Phys Ther,2021,INCORRECT,UNCLEAR,
+33731278,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+33386254,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+32855073,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+33077345,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+32475778,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+28442072,Braz J Phys Ther,2017,INCORRECT,INCORRECT,"Normality test applied to pooled/raw variables, not residuals or per-group."
+32830064,Braz J Phys Ther,2021,MIXED,CORRECT,
+28709586,Braz J Phys Ther,2017,INCORRECT,INCORRECT,"Tests applied to pooled data, not residuals or per-group."
+32792230,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+33824060,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+30143357,Braz J Phys Ther,2019,INCORRECT,UNCLEAR,
+30177406,Braz J Phys Ther,2019,INCORRECT,INCORRECT,
+32276877,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+26786085,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality tested on pooled/raw continuous variables, not residuals or per-group."
+32151525,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+30077519,Braz J Phys Ther,2019,INCORRECT,INCORRECT,
+30245043,Braz J Phys Ther,2019,INCORRECT,INCORRECT,
+30872005,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+31810864,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+28465132,Braz J Phys Ther,2017,INCORRECT,INCORRECT,"Normality test applied to pooled/raw variables, not residuals or per-group."
+31175006,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+31375459,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+29486980,Braz J Phys Ther,2018,INCORRECT,INCORRECT,
+29699866,Braz J Phys Ther,2018,INCORRECT,INCORRECT,
+30470666,Braz J Phys Ther,2019,INCORRECT,INCORRECT,
+30471964,Braz J Phys Ther,2019,INCORRECT,INCORRECT,
+32007324,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+30598364,Braz J Phys Ther,2019,MIXED,CORRECT,
+31526636,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+31564404,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+32540329,Braz J Phys Ther,2021,INCORRECT,INCORRECT,
+31000175,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+30954371,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+31076255,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+31570266,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+31383627,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+31122717,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+31377123,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+30249438,Braz J Phys Ther,2019,INCORRECT,INCORRECT,
+30145130,Braz J Phys Ther,2019,INCORRECT,INCORRECT,
+29598896,Braz J Phys Ther,2018,INCORRECT,INCORRECT,
+30587398,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+30509854,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+29033217,Braz J Phys Ther,2018,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group.
+30243858,Braz J Phys Ther,2019,INCORRECT,UNCLEAR,
+30166089,Braz J Phys Ther,2019,INCORRECT,INCORRECT,
+30853351,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+30967355,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+30497829,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+30361077,Braz J Phys Ther,2019,INCORRECT,INCORRECT,
+28941958,Braz J Phys Ther,2017,INCORRECT,INCORRECT,Data normality tested without specifying residuals or groups.
+26982454,Braz J Phys Ther,2016,INCORRECT,INCORRECT,Normality test applied to unqualified 'distribution'.
+30143356,Braz J Phys Ther,2019,INCORRECT,INCORRECT,
+30948247,Braz J Phys Ther,2020,INCORRECT,INCORRECT,
+29636306,Braz J Phys Ther,2018,INCORRECT,INCORRECT,
+29456193,Braz J Phys Ther,2018,INCORRECT,INCORRECT,
+28442071,Braz J Phys Ther,2017,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+28743567,Braz J Phys Ther,2018,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+29728298,Braz J Phys Ther,2018,INCORRECT,INCORRECT,
+30145129,Braz J Phys Ther,2019,INCORRECT,INCORRECT,
+28709587,Braz J Phys Ther,2017,INCORRECT,UNCLEAR,"No specific normality test target described, mentions normal range instead."
+27556391,Braz J Phys Ther,2016,MIXED,MIXED,Tests on residuals and unqualified 'quantitative data'.
+29752160,Braz J Phys Ther,2018,INCORRECT,INCORRECT,
+28571696,Braz J Phys Ther,2017,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+29588151,Braz J Phys Ther,2018,INCORRECT,INCORRECT,
+29610045,Braz J Phys Ther,2018,INCORRECT,INCORRECT,
+29983340,Braz J Phys Ther,2019,INCORRECT,INCORRECT,
+28736212,Braz J Phys Ther,2017,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+28720481,Braz J Phys Ther,2017,INCORRECT,INCORRECT,"Normality test applied to pooled/raw variables, not residuals or per-group."
+27556386,Braz J Phys Ther,2016,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+28939262,Braz J Phys Ther,2018,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+28993042,Braz J Phys Ther,2018,INCORRECT,INCORRECT,"Tests applied to variables, not residuals or per-group."
+29636305,Braz J Phys Ther,2018,INCORRECT,INCORRECT,
+26647746,Braz J Phys Ther,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+28442212,Braz J Phys Ther,2017,INCORRECT,INCORRECT,"No specific target mentioned, implies pooled/raw data."
+28733091,Braz J Phys Ther,2017,INCORRECT,INCORRECT,"Shapiro–Wilk test on unqualified 'data', not residuals or per-group."
+29258736,Braz J Phys Ther,2018,INCORRECT,INCORRECT,
+28460716,Braz J Phys Ther,2017,INCORRECT,INCORRECT,Data normality tested without specifying residuals or per-group analysis.
+28869119,Braz J Phys Ther,2017,INCORRECT,INCORRECT,"Shapiro–Wilk test on unqualified 'data', not residuals or per-group."
+29031958,Braz J Phys Ther,2018,INCORRECT,INCORRECT,"Normality test applied to raw data, not residuals or per-group."
+29653903,Braz J Phys Ther,2018,INCORRECT,INCORRECT,
+27556393,Braz J Phys Ther,2016,MIXED,MIXED,Tests on residuals and unqualified 'data' mentioned.
+25993629,Braz J Phys Ther,2015,INCORRECT,INCORRECT,Data tested without specifying residuals or groups.
+29292138,Braz J Phys Ther,2018,INCORRECT,INCORRECT,
+28460712,Braz J Phys Ther,2017,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+26083600,Braz J Phys Ther,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+28460707,Braz J Phys Ther,2017,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+28711380,Braz J Phys Ther,2017,INCORRECT,INCORRECT,Shapiro-Wilk test applied to pooled/raw data without specifying groups or residuals.
+26786078,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+27683833,Braz J Phys Ther,2016,INCORRECT,INCORRECT,Tests normality of data without specifying residuals or groups.
+26537812,Braz J Phys Ther,2015,INCORRECT,INCORRECT,"Tests applied to all variables, not residuals or per-group."
+28473281,Braz J Phys Ther,2017,INCORRECT,INCORRECT,Normality test applied to unqualified 'data distribution'.
+25993628,Braz J Phys Ther,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+28460713,Braz J Phys Ther,2017,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+27556388,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality test applied to all variables, not residuals or per-group."
+27683838,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+28736210,Braz J Phys Ther,2017,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+25993625,Braz J Phys Ther,2015,INCORRECT,INCORRECT,"Normality test applied to all variables, not residuals or per-group."
+27556387,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+26982455,Braz J Phys Ther,2016,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+28558953,Braz J Phys Ther,2017,INCORRECT,INCORRECT,Shapiro-Wilk test applied to variable distribution without specifying residuals or groups.
+27410162,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality test applied to pooled/raw outcome data, not residuals or per-group."
+28558952,Braz J Phys Ther,2017,INCORRECT,INCORRECT,Data checked without specifying residuals or groups.
+27556384,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+27556389,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality tested on outcomes, not residuals or per-group."
+26786080,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality test applied to pooled data, not residuals or per-group."
+26786074,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26443978,Braz J Phys Ther,2015,INCORRECT,INCORRECT,"Shapiro-Wilk test applied to unqualified 'data', not residuals or per-group."
+26982453,Braz J Phys Ther,2016,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+26039033,Braz J Phys Ther,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+27437712,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+27683837,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality test applied to raw data, not residuals or per-group."
+26647748,Braz J Phys Ther,2015,INCORRECT,INCORRECT,Normality checked without specifying residuals or per-group.
+27410163,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality test applied to pooled/raw variables, not residuals or per-group."
+25651134,Braz J Phys Ther,2015,INCORRECT,INCORRECT,Unqualified statement about data normality test.
+27333482,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Shapiro-Wilk test on unqualified 'data', not residuals or per-group."
+26786077,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+27437713,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Shapiro-Wilk test on unqualified 'data', not residuals or per-group."
+27556385,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality tested on unqualified 'data', not residuals or per-group."
+26647747,Braz J Phys Ther,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw results, not residuals or per-group."
+26578254,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+27683840,Braz J Phys Ther,2016,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+27437716,Braz J Phys Ther,2016,INCORRECT,INCORRECT,Normality test applied to unqualified 'data'.
+27437714,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+28460711,Braz J Phys Ther,2017,INCORRECT,INCORRECT,"Normality test on unqualified 'data', not residuals or per-group."
+27333485,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Tests applied to pooled/raw variables, not residuals or per-group."
+26537809,Braz J Phys Ther,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw variables, not residuals or per-group."
+26443974,Braz J Phys Ther,2015,INCORRECT,INCORRECT,Shapiro-Wilk test applied to data without specifying residuals or groups.
+27683835,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Shapiro-Wilk test on unqualified 'data', not residuals or per-group."
+27556392,Braz J Phys Ther,2016,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+26647744,Braz J Phys Ther,2015,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+26083605,Braz J Phys Ther,2015,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+26083603,Braz J Phys Ther,2015,INCORRECT,INCORRECT,"Normality test applied to unqualified data, not residuals or per-group."
+27410161,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality tests performed on all outcome measures, not residuals or per-group."
+26647752,Braz J Phys Ther,2015,INCORRECT,INCORRECT,"Normality tests performed on all continuous variables, not residuals or per-group."
+27556390,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+26039036,Braz J Phys Ther,2015,INCORRECT,INCORRECT,Unqualified statement about testing data for normality.
+26786082,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Normality test on unqualified 'data', not residuals or per-group."
+26083602,Braz J Phys Ther,2015,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+25789555,Braz J Phys Ther,2015,INCORRECT,INCORRECT,"Tests applied to pooled/raw data, not residuals or per-group."
+28442076,Braz J Phys Ther,2017,INCORRECT,INCORRECT,Shapiro–Wilk test applied to data without specifying residuals or groups.
+26647745,Braz J Phys Ther,2015,MIXED,MIXED,Tests on residuals and unqualified 'data' mentioned.
+25789556,Braz J Phys Ther,2015,INCORRECT,INCORRECT,Unqualified statement about testing data normality.
+27437715,Braz J Phys Ther,2016,INCORRECT,INCORRECT,"Tests normality on pooled/raw data, not residuals or per-group."
+28939263,Braz J Phys Ther,2018,INCORRECT,INCORRECT,"Normality test on all variables, not residuals or per-group."
+25651131,Braz J Phys Ther,2015,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+25651132,Braz J Phys Ther,2015,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+38510153,Hong Kong Physiother J,2024,INCORRECT,INCORRECT,"Normality test applied to all variables, not residuals or per-group."
+38510156,Hong Kong Physiother J,2024,INCORRECT,INCORRECT,Unqualified statement about testing data normality.
+38577392,Hong Kong Physiother J,2024,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+37584049,Hong Kong Physiother J,2023,INCORRECT,INCORRECT,"Normality test on continuous variables, not residuals or per-group."
+38577394,Hong Kong Physiother J,2024,INCORRECT,INCORRECT,"Tests applied to pooled/raw variables, not residuals or per-group."
+38510154,Hong Kong Physiother J,2024,INCORRECT,ACCEPTABLE,Normality tested separately within each group.
+38577393,Hong Kong Physiother J,2024,INCORRECT,INCORRECT,"Normality tested on pooled/raw data, not residuals or per-group."
+37584052,Hong Kong Physiother J,2023,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+37584046,Hong Kong Physiother J,2023,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without group conditioning.
+37583921,Hong Kong Physiother J,2023,INCORRECT,INCORRECT,Data tested without specifying residuals or groups.
+37583919,Hong Kong Physiother J,2023,INCORRECT,INCORRECT,Data treated as normally distributed without specifying residuals or groups.
+35782695,Hong Kong Physiother J,2022,INCORRECT,INCORRECT,"Tests normality of all data, not residuals or per-group."
+37584047,Hong Kong Physiother J,2023,INCORRECT,INCORRECT,Normality test applied to data without specifying residuals or groups.
+37583924,Hong Kong Physiother J,2023,INCORRECT,INCORRECT,"Normality test applied to pooled data, not residuals or per-group."
+35782693,Hong Kong Physiother J,2022,INCORRECT,INCORRECT,"Tests applied to pooled data, not residuals or per-group."
+33005078,Hong Kong Physiother J,2020,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying residuals or groups.
+34177201,Hong Kong Physiother J,2021,INCORRECT,INCORRECT,Tests applied to pooled/raw data without per-group or residuals.
+34054258,Hong Kong Physiother J,2021,INCORRECT,INCORRECT,Normality test applied to all variables without specifying residuals or groups.
+37560168,Hong Kong Physiother J,2022,INCORRECT,INCORRECT,"Normality test applied to pooled/raw data, not residuals or per-group."
+35782696,Hong Kong Physiother J,2022,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+34177199,Hong Kong Physiother J,2021,INCORRECT,INCORRECT,Normality test applied to pooled/raw data without specifying groups or residuals.
+34177196,Hong Kong Physiother J,2021,INCORRECT,INCORRECT,"Shapiro–Wilk test on unqualified 'data', not residuals or per-group."
+31889765,Hong Kong Physiother J,2019,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+33005073,Hong Kong Physiother J,2020,INCORRECT,INCORRECT,"Normality test applied to unqualified 'data', not residuals or per-group."
+30931025,Hong Kong Physiother J,2016,INCORRECT,INCORRECT,Tests applied to data without specifying residuals or groups.
+30931045,Hong Kong Physiother J,2017,INCORRECT,INCORRECT,"Normality test applied to dependent variable, not residuals or per-group."
+31889760,Hong Kong Physiother J,2019,INCORRECT,ACCEPTABLE,"Normality checked within subgroups, not residuals or pooled data."
+30931040,Hong Kong Physiother J,2017,INCORRECT,INCORRECT,"Normality assessed on variables, not residuals or per-group."
+30931022,Hong Kong Physiother J,2016,INCORRECT,INCORRECT,"Normality test applied to pooled/raw outcome data, not residuals or per-group."
+39013262,Phys Ther Sport,2024,INCORRECT,INCORRECT,"Normality test applied to variables, not residuals or per-group."
+38593626,Phys Ther Sport,2024,INCORRECT,INCORRECT,Data tested without specifying residuals or per-group analysis.
+32220759,Phys Ther Sport,2020,INCORRECT,INCORRECT,Unqualified statement about testing data for normality.
+36525741,Phys Ther Sport,2023,INCORRECT,INCORRECT,"Tests normality on pooled/raw variables, not residuals or per-group."
+31869753,Phys Ther Sport,2020,INCORRECT,INCORRECT,"Normality assessed on unqualified 'data', not residuals or per-group."
+37736379,Physiother Can,2023,INCORRECT,UNCLEAR,
+34880535,Physiother Can,2021,INCORRECT,INCORRECT,
+30787502,Physiother Can,2019,INCORRECT,INCORRECT,
+34880541,Physiother Can,2021,INCORRECT,INCORRECT,
+35110804,Physiother Can,2020,INCORRECT,INCORRECT,
+35185254,Physiother Can,2022,INCORRECT,INCORRECT,
+34456422,Physiother Can,2021,INCORRECT,INCORRECT,
+30745716,Physiother Can,2018,INCORRECT,INCORRECT,
+32494097,Physiother Can,2020,INCORRECT,INCORRECT,
+32494099,Physiother Can,2020,INCORRECT,INCORRECT,
+35110806,Physiother Can,2020,INCORRECT,INCORRECT,
+34456440,Physiother Can,2021,INCORRECT,INCORRECT,
+35110808,Physiother Can,2020,INCORRECT,INCORRECT,
+30787500,Physiother Can,2019,MIXED,CORRECT,
+30787497,Physiother Can,2019,INCORRECT,INCORRECT,
+35110796,Physiother Can,2020,INCORRECT,INCORRECT,
+27909371,Physiother Can,2016,INCORRECT,INCORRECT,
+31762545,Physiother Can,2019,INCORRECT,INCORRECT,
+29434413,Physiother Can,2018,INCORRECT,INCORRECT,
+31040507,Physiother Can,2019,INCORRECT,INCORRECT,
+31040514,Physiother Can,2019,INCORRECT,INCORRECT,
+30745715,Physiother Can,2018,INCORRECT,INCORRECT,
+28539697,Physiother Can,2017,INCORRECT,INCORRECT,
+30745723,Physiother Can,2018,INCORRECT,INCORRECT,
+30745719,Physiother Can,2018,INCORRECT,INCORRECT,
+30275641,Physiother Can,2017,INCORRECT,INCORRECT,
+27909356,Physiother Can,2016,INCORRECT,INCORRECT,
+27504043,Physiother Can,2016,INCORRECT,INCORRECT,
+28539694,Physiother Can,2017,INCORRECT,INCORRECT,
+25931667,Physiother Can,2015,INCORRECT,INCORRECT,
+30369696,Physiother Can,2017,INCORRECT,INCORRECT,
+ELS:10.1016/j.jphys.2016.11.009,J Physiother,2017,CORRECT,CORRECT,
+ELS:10.1016/j.jphys.2022.06.002,J Physiother,2022,ACCEPTABLE,ACCEPTABLE,
+ELS:10.1016/j.jphys.2018.02.013,J Physiother,2018,INCORRECT,INCORRECT,
+ELS:10.1016/j.jphys.2016.02.014,J Physiother,2016,INCORRECT,INCORRECT,
+ELS:10.1016/j.jphys.2022.11.011,J Physiother,2023,INCORRECT,INCORRECT,
+ELS:10.1016/j.jphys.2023.08.008,J Physiother,2023,INCORRECT,INCORRECT,
+ELS:10.1016/j.jphys.2019.08.004,J Physiother,2019,INCORRECT,INCORRECT,
+ELS:10.1016/j.jphys.2021.12.004,J Physiother,2022,INCORRECT,INCORRECT,
+ELS:10.1016/j.jphys.2023.08.006,J Physiother,2023,INCORRECT,UNCLEAR,
+ELS:10.1016/j.jphys.2019.02.007,J Physiother,2019,INCORRECT,INCORRECT,
+ELS:10.1016/j.jphys.2021.02.013,J Physiother,2021,INCORRECT,INCORRECT,
+ELS:10.1016/j.jphys.2021.12.010,J Physiother,2022,INCORRECT,INCORRECT,
+ELS:10.1016/j.jphys.2021.12.011,J Physiother,2022,INCORRECT,INCORRECT,
+ELS:10.1016/j.jphys.2018.11.002,J Physiother,2019,INCORRECT,INCORRECT,
+ELS:10.1016/j.jphys.2024.02.017,J Physiother,2024,INCORRECT,INCORRECT,
+ELS:10.1016/j.jphys.2023.08.014,J Physiother,2023,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2024.03.005,Physiotherapy,2024,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2024.04.110,Physiotherapy,2024,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.04.008,Physiotherapy,2016,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2016.01.003,Physiotherapy,2017,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2021.09.003,Physiotherapy,2022,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2019.01.001,Physiotherapy,2020,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2023.04.001,Physiotherapy,2023,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.06.001,Physiotherapy,2016,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2014.12.004,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2018.11.001,Physiotherapy,2019,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.05.002,Physiotherapy,2016,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.10.007,Physiotherapy,2016,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2019.11.003,Physiotherapy,2020,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2023.08.001,Physiotherapy,2023,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2017.06.001,Physiotherapy,2018,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2022.02.002,Physiotherapy,2022,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2018.07.006,Physiotherapy,2019,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2016.02.004,Physiotherapy,2017,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2024.03.004,Physiotherapy,2024,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2018.08.004,Physiotherapy,2019,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.04.004,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2016.04.002,Physiotherapy,2017,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2024.02.005,Physiotherapy,2024,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2018.11.307,Physiotherapy,2019,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2016.09.001,Physiotherapy,2017,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2018.08.009,Physiotherapy,2019,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.03.3551,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2017.08.002,Physiotherapy,2018,CORRECT,CORRECT,
+ELS:10.1016/j.physio.2015.11.004,Physiotherapy,2017,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2018.07.013,Physiotherapy,2019,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.10.005,Physiotherapy,2016,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.07.005,Physiotherapy,2016,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.03.3719,Physiotherapy,2016,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2023.10.008,Physiotherapy,2024,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2024.01.004,Physiotherapy,2024,MIXED,INCORRECT,
+ELS:10.1016/j.physio.2014.08.004,Physiotherapy,2015,INCORRECT,UNCLEAR,
+ELS:10.1016/j.physio.2024.02.001,Physiotherapy,2024,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2014.06.008,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2018.11.006,Physiotherapy,2019,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.10.013,Physiotherapy,2016,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.03.3577,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2017.08.010,Physiotherapy,2019,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2022.08.009,Physiotherapy,2022,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.03.3478,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.03.065,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2019.06.006,Physiotherapy,2020,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2023.08.004,Physiotherapy,2024,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2016.06.001,Physiotherapy,2017,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2019.10.003,Physiotherapy,2020,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.03.426,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2023.12.001,Physiotherapy,2024,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2019.06.010,Physiotherapy,2020,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2022.09.002,Physiotherapy,2022,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.08.008,Physiotherapy,2016,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.03.534,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2017.11.218,Physiotherapy,2019,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.08.002,Physiotherapy,2016,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2021.03.003,Physiotherapy,2021,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.01.010,Physiotherapy,2016,ACCEPTABLE,ACCEPTABLE,
+ELS:10.1016/j.physio.2022.11.006,Physiotherapy,2023,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.03.420,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2014.07.004,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2014.08.002,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2017.10.001,Physiotherapy,2018,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2019.08.001,Physiotherapy,2020,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2019.11.002,Physiotherapy,2020,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2020.12.003,Physiotherapy,2021,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2018.05.004,Physiotherapy,2018,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.10.016,Physiotherapy,2017,INCORRECT,UNCLEAR,
+ELS:10.1016/j.physio.2022.03.003,Physiotherapy,2022,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2014.07.003,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.06.002,Physiotherapy,2016,INCORRECT,UNCLEAR,
+ELS:10.1016/j.physio.2019.12.005,Physiotherapy,2020,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2021.04.004,Physiotherapy,2022,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2016.10.252,Physiotherapy,2016,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2016.10.123,Physiotherapy,2016,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2019.12.007,Physiotherapy,2020,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.03.460,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.03.384,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2017.03.004,Physiotherapy,2017,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2021.12.107,Physiotherapy,2022,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2017.10.009,Physiotherapy,2018,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2014.12.005,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.03.3288,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.03.1452,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.03.2155,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.03.3621,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.03.1529,Physiotherapy,2015,INCORRECT,UNCLEAR,
+ELS:10.1016/j.physio.2022.05.001,Physiotherapy,2022,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.03.2020,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.03.3611,Physiotherapy,2015,ACCEPTABLE,INCORRECT,
+ELS:10.1016/j.physio.2021.04.003,Physiotherapy,2022,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2017.02.001,Physiotherapy,2018,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2024.01.005,Physiotherapy,2024,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2014.07.005,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2020.02.004,Physiotherapy,2020,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2017.10.004,Physiotherapy,2018,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2014.11.002,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.08.009,Physiotherapy,2016,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2015.12.002,Physiotherapy,2017,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2019.08.007,Physiotherapy,2020,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2019.12.006,Physiotherapy,2020,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2014.06.003,Physiotherapy,2015,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2016.04.003,Physiotherapy,2017,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2017.08.009,Physiotherapy,2018,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2024.04.081,Physiotherapy,2024,INCORRECT,UNCLEAR,
+ELS:10.1016/j.physio.2015.12.005,Physiotherapy,2017,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2019.12.002,Physiotherapy,2020,INCORRECT,INCORRECT,
+ELS:10.1016/j.physio.2019.06.003,Physiotherapy,2020,MIXED,CORRECT,
+ELS:10.1016/j.physio.2015.03.1229,Physiotherapy,2015,INCORRECT,UNCLEAR,

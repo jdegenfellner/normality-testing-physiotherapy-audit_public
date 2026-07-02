@@ -1,0 +1,642 @@
+
+==========================================================================================
+[1] id=28265143  J Phys Ther Sci  2017
+TITLE: Effects of visual fatigue caused by smartphones on balance function in healthy adults.
+NORMALITY SENTENCES:
+  * The Kolmogorov-Smirnov test was used to analyze the differences in PS, LOS, and LOS running time before and after the induction of visual fatigue.
+  * The paired t-test was used for comparisons of normally distributed data sets.
+
+==========================================================================================
+[2] id=28473281  Braz J Phys Ther  2017
+TITLE: Linear and nonlinear analysis of postural control in frailty syndrome.
+NORMALITY SENTENCES:
+  * Both CApEn and SampEn were also presented in their normalized versions in order to reduce dependence on the Shannon entropy of the series and, thus, on the type of distribution of the signal.20, 22, 23Statistical analysisThe Shapiro–Wilk test was used to verify the normality of the data distribution.
+  * The variables that did not present normal distribution were converted to log10.
+
+==========================================================================================
+[3] id=25995542  J Phys Ther Sci  2015
+TITLE: Intra-observer reliability in three-dimensional kinematic analysis of sacroiliac joint mobility.
+NORMALITY SENTENCES:
+  * The characteristics and sociodemographic data of the subjects were tested for normality using the Kolmogorov-Smirnov test and are presented as averages (X) and standard deviations (SD).
+
+==========================================================================================
+[4] id=28465132  Braz J Phys Ther  2017
+TITLE: Comparison of cervical muscle thickness between asymptomatic women with and without forward head posture.
+NORMALITY SENTENCES:
+  * The normality of the variables was verified using the Shapiro–Wilk test.
+  * The results showed normal distribution for thickness of all muscles except for the RC muscle.
+
+==========================================================================================
+[5] id=37073780  Disabil Rehabil  2024
+TITLE: Daily steps and stepping cadence increase one-year following prosthesis osseointegration in people with lower-limb amputation.
+NORMALITY SENTENCES:
+  * All variables were examined with the Shapiro-Wilk test for normality and Levene’s test for homogeneity of variance.
+  * Normally distributed variables were compared before and after prosthesis osseointegration using paired t-tests, with corrections made for unequal variances.
+
+==========================================================================================
+[6] id=37529060  J Phys Ther Sci  2023
+TITLE: Observing the effect of physical activity on forward head posture and rounded shoulder posture in young healthy adults.
+NORMALITY SENTENCES:
+  * The Shapiro–Wilk test was conducted to examine whether the data were normally distributed.
+  * Non-parametric statistics were used when the data were non-normally distributed.
+
+==========================================================================================
+[7] id=36744198  J Phys Ther Sci  2023
+TITLE: Short-term efficacy of exercise therapy for temporomandibular disorders: a case control study.
+NORMALITY SENTENCES:
+  * A VAS (0–100) was used to assess the degree of pain and difficulty in daily life.To examine the short-term effects of exercise therapy, baseline comparisons were made using the Kolmogorov–Smirnov test to confirm the normality of endpoints at the initial and first return visits.
+  * Although some items assessed were determined to be normally distributed, histograms revealed non-normal distributions;
+  * therefore, we assumed that no items assessed were normally distributed.
+
+==========================================================================================
+[8] id=28356650  J Phys Ther Sci  2017
+TITLE: The effects of pelvic diagonal movements and resistance on the lumbar multifidus.
+NORMALITY SENTENCES:
+  * For a normality check, the Shapiro-Wilk test was conducted and the Bonferroni method was applied for a post-hoc test.
+
+==========================================================================================
+[9] id=37405184  J Phys Ther Sci  2023
+TITLE: Examination of the correlation between the knee extension angles in the sitting and supine positions measured using ImageJ software: a prospective cross-sectional study.
+NORMALITY SENTENCES:
+  * The KEA was defined as the angle formed by the measurement lines in this measurement, not the joint ROM indicated by The Japanese Association of Rehabilitation Medicine8).After confirming the normality of the data distribution of the KEA in supine and sitting positions with the Shapiro–Wilk test, the association between the KEAs in both positions was examined using Pearson’s product-rate correlati
+
+==========================================================================================
+[10] id=25995561  J Phys Ther Sci  2015
+TITLE: Effects of activation of the foot on trunk mobility of patients with hemiplegia.
+NORMALITY SENTENCES:
+  * The Kolmogorov-Smirnov test was used to test the normality of data distributions.
+
+==========================================================================================
+[11] id=26786078  Braz J Phys Ther  2016
+TITLE: Test-retest, inter- and intra-rater reliability of the flexicurve for evaluation of the spine in children.
+NORMALITY SENTENCES:
+  * The data normality was confirmed using the Shapiro-Wilk test.
+
+==========================================================================================
+[12] id=38434992  J Phys Ther Sci  2024
+TITLE: Quantitative and qualitative evaluation of the masseter muscle by ultrasonography and correlation with whole body health status.
+NORMALITY SENTENCES:
+  * When measuring the muscle elasticity at maximum occlusion, the measurement site was positioned while the examiner reviewed the B-mode US image, and the participant was instructed to maintain the maximum occlusion state for at least 3 seconds.The Shapiro–Wilk test was used to confirm the normality of the masseter muscle data (muscle thickness at rest, muscle thickness at maximum occlusion, muscle s
+
+==========================================================================================
+[13] id=35527841  J Phys Ther Sci  2022
+TITLE: Effects of capacitive and resistive electric transfer therapy on pain and lumbar muscle stiffness and activity in patients with chronic low back pain.
+NORMALITY SENTENCES:
+  * Kolmogorov–Smirnov test revealed normal distribution of data.
+
+==========================================================================================
+[14] id=26537809  Braz J Phys Ther  2015
+TITLE: Sports injuries profile of a first division Brazilian soccer team: a descriptive cohort study.
+NORMALITY SENTENCES:
+  * Initially, the assumption of normality was verified using the Shapiro-Wilk test, which revealed that these variables were non-normally distributed.
+
+==========================================================================================
+[15] id=28941958  Braz J Phys Ther  2017
+TITLE: Disability in older adults with acute low back pain: the study Back Complaints in the Elderly - (Brazil).
+NORMALITY SENTENCES:
+  * The BACE Brazil database was triple-checked by three researchers in order to ensure greater reliability and consistency of results.Statistical analysisThe normal distribution of data was assessed using the Kolmogorov–Smirnov test.
+
+==========================================================================================
+[16] id=25931687  J Phys Ther Sci  2015
+TITLE: Gait analysis of elderly women after total knee arthroplasty.
+NORMALITY SENTENCES:
+  * The subjects’ general characteristics and experimental results were tested for normality using the Shapiro-Wilk test.
+
+==========================================================================================
+[17] id=33132530  J Phys Ther Sci  2020
+TITLE: Relationship between low back pain and lumbar and hip joint movement in desk workers.
+NORMALITY SENTENCES:
+  * The median (interquartile range) of each value was calculated after testing the normality of the NRS and ratio of the lumbar and hip joint movements during maximum forward and backward bending of the trunk using the Shapiro-Wilk normality test.
+
+==========================================================================================
+[18] id=33281285  J Phys Ther Sci  2020
+TITLE: Effects of a dual task and different levels of divided attention on motor-related cortical potential.
+NORMALITY SENTENCES:
+  * In the visual number counting tasks, the accuracy of the number of target numbers under the DT (S-DT and C-DT) conditions was compared using the Mann-Whitney U test since normality was not confirmed according to the Shapiro-Wilk test.
+
+==========================================================================================
+[19] id=38562534  J Phys Ther Sci  2024
+TITLE: Correlation between the sacral tilt measured with an inclinometer and the pelvic tilt as a tool for assessing the pelvic position.
+NORMALITY SENTENCES:
+  * First, the data sets for men and women were tested separately for normal distribution using the Kolmogorov–Smirnov test.
+
+==========================================================================================
+[20] id=29410587  J Phys Ther Sci  2018
+TITLE: Correlation between diaphragm thickness and respiratory synergist muscle activity according to severity of chronic obstructive pulmonary disease.
+NORMALITY SENTENCES:
+  * In addition, the subjects understood the purpose of this study and agreed to participate (Table 1Table 1.General characteristics of subjectsItemsExperimental group-I (n=15)Experimental group-II (n=15)Age (years)65.6 ± 4.166 ± 3.8Height (cm)164.5 ± 4.2163.9 ± 3.6Weight (kg)64.5 ± 4.961 ± 2.1FEV1 (%)61.8 ± 2.941.2 ± 5.1FEV1/FVC (kg/m2)51.9 ± 3.131.5 ± 4.8Data are presented as mean ± SD, obtained by 
+
+==========================================================================================
+[21] id=27410161  Braz J Phys Ther  2016
+TITLE: Dynamometry for the measurement of grip, pinch, and trunk muscles strength in subjects with subacute stroke: reliability and different number of trials.
+NORMALITY SENTENCES:
+  * During the muscle strength test, the rater provided verbal encouragement to the participant to attempt maximum effort.Statistical analysisDescriptive statistics and normality tests (i.e.
+  * Shapiro-Wilk) were performed for all outcome measures.
+
+==========================================================================================
+[22] id=26180290  J Phys Ther Sci  2015
+TITLE: Validity of body impedance analysis for evaluating body composition in patients undergoing long-term hemodialysis.
+NORMALITY SENTENCES:
+  * The blood lipid levels were measured every month, and we adopted the latest available data for evaluating their relationships with the body composition parameters.We evaluated normality of data using the Shapiro-Wilk test.
+  * As a result, the normality of dialysis PA and TG levels could not be verified.
+
+==========================================================================================
+[23] id=31155969  Disabil Rehabil  2021
+TITLE: Cognitive oriented strategy training augmented rehabilitation (COSTAR) for ischemic stroke: a pilot exploratory randomized controlled study.
+NORMALITY SENTENCES:
+  * Raw data were cleaned after exportation from REDCap then checked for accuracy and evaluated for normal distribution using the Shapiro-Wilk test.We compiled descriptive statistics and looked at baseline comparison between groups.
+  * We calculated mean change scores for COSTAR and TST participants for all normally distributed data on main activity and participation level outcome measures, functional skill performance, and participation/health status including Cohen’s ds effect sizes and confidence intervals.
+  * For non-normally distributed data, medians were determined, and a nonparametric effect size r was calculated using the formula r = √(z2/N).
+  * For normally distributed data, Cohen’s d was calculated and interpreted as 0.2 = small effect, 0.5 = medium effect, and 0.8=large effect[27].
+  * For non-normally distributed data, medians and non-parametric effect size r are shown and interpreted as 0.1=small, 0.3=medium, and 0.5=large[28].
+
+==========================================================================================
+[24] id=26647748  Braz J Phys Ther  2015
+TITLE: Skinfold thickness affects the isometric knee extension torque evoked by Neuromuscular Electrical Stimulation.
+NORMALITY SENTENCES:
+  * The VAS was presented to the participants immediately after the assessment of NMES-evoked torque (after the third evoked contraction) and they were asked to point a mark on a VAS to rate the level of discomfort.Statistical analysisNormality was consistently checked using the Shapiro-Wilk test.
+
+==========================================================================================
+[25] id=25729173  J Phys Ther Sci  2015
+TITLE: Effects of abdominal drawing-in during prone hip extension on the muscle activities of the hamstring, gluteus maximus, and lumbar erector spinae in subjects with lumbar hyperlordosis.
+NORMALITY SENTENCES:
+  * 20.0., Armonk, NY, USA) was used for analysis purposes, and the Kolmogorov-Smirnov test was performed to verify that data were normally distributed.
+
+==========================================================================================
+[26] id=29581655  J Phys Ther Sci  2018
+TITLE: Effect of squatting velocity on hip muscle latency in women with patellofemoral pain syndrome.
+NORMALITY SENTENCES:
+  * The Shapiro-Wilk test and Levene’s test were applied to calculate the normality and homogeneity of variance, respectively.For each muscle onset latency an analysis of variance (ANOVA) of repeated measures of two factors was performed: one factor between subjects of two levels (diagnostic;
+  * Muscle onset latency met the criteria of normality and homogeneity of variances.
+
+==========================================================================================
+[27] id=34393366  J Phys Ther Sci  2021
+TITLE: Relationship between single-leg stance test with light touch and hip muscle strength in healthy young adults.
+NORMALITY SENTENCES:
+  * The Shapiro-Wilk test was used to confirm that the data were distributed normally.
+
+==========================================================================================
+[28] id=26157210  J Phys Ther Sci  2015
+TITLE: Effects of controlled condylar rotation exercise on symmetrical mouth opening in patients with temporomandibular disorder.
+NORMALITY SENTENCES:
+  * Controlled ACRE was repeated 6 times at a frequency of 6 sessions per day2).All data showed a normal distribution according to the Kolmogorov-Smirnov test.
+
+==========================================================================================
+[29] id=29643575  J Phys Ther Sci  2017
+TITLE: Difference in tongue strength using visual feedback in healthy adults.
+NORMALITY SENTENCES:
+  * The Shapiro-Wilk test was used to check normality of the outcome variables.
+
+==========================================================================================
+[30] id=27134384  J Phys Ther Sci  2016
+TITLE: Range of motion, muscle length, and balance performance in older adults with normal, pronated, and supinated feet.
+NORMALITY SENTENCES:
+  * The normality test indicated that all variables of interest were not normally distributed;
+
+==========================================================================================
+[31] id=25642050  J Phys Ther Sci  2015
+TITLE: The effect of olfactory stimuli on the balance ability of stroke patients.
+NORMALITY SENTENCES:
+  * The general characteristics of the subjects were analyzed with the Kolmogorov-Smirnov test.
+
+==========================================================================================
+[32] id=26834327  J Phys Ther Sci  2015
+TITLE: Usefulness of a 50-meter round walking test for fall prediction in the elderly requiring long-term care.
+NORMALITY SENTENCES:
+  * Falls were defined as “unintentionally falling to the ground, floor, or other lower place.”In the statistical analysis, the normality of each measured item was confirmed with the Shapiro-Wilk test.
+
+==========================================================================================
+[33] id=35666490  Eur J Phys Rehabil Med  2022
+TITLE: Prediction of bowel management independence after ischemic spinal cord injury.
+NORMALITY SENTENCES:
+  * Normality of data was assessed with Shapiro-Wilk test.
+
+==========================================================================================
+[34] id=27630421  J Phys Ther Sci  2016
+TITLE: Measurement of force sense reproduction in the knee joint: application of a new dynamometric device.
+NORMALITY SENTENCES:
+  * The data distribution was evaluated using the Shapiro-Wilk test, and deemed normal after an acceptable minimum score of 0.112 was achieved.
+
+==========================================================================================
+[35] id=34219964  J Phys Ther Sci  2021
+TITLE: Sagittal spine shape literacy in the general adult population, assessed by a novel, simple graphical tool.
+NORMALITY SENTENCES:
+  * We also assessed if the order of testing (selection vs drawing) made a difference to the SSL scores by, after testing for normality, comparing the scores of the two groups with Mann-Whitney U tests.
+  * Further to our second aim, sample characteristics and confidence of response were evaluated for normality and compared with paired and unpaired t-tests within and between the drawing first and select first subgroups.For our third aim, we used the selection test scores in chi-squared linear trend tests to compare SSL between the spinal pain and the pain-free group.
+  * Significance was set at 0.05 and apart from the d’Agostino normality test conducted online at http://contchart.com the statistical analysis was conducted using SPSS version 24.0 (IBM Corp, Chicago, IL, USA).RESULTSWe recruited 250 adult participants into our study.
+
+==========================================================================================
+[36] id=36628139  J Phys Ther Sci  2023
+TITLE: The relationship between frailty and motor function among living in the community elderly females.
+NORMALITY SENTENCES:
+  * Statistical analyses were performed using the Shapiro–Wilk test for normality of all measures.
+  * For comparisons among the three groups (frailty, pre-frailty, and robust), one-way ANOVA was selected for normally distributed cases, and a Kruskal–Wallis test was selected for non-normally distributed cases.
+
+==========================================================================================
+[37] id=31037001  J Phys Ther Sci  2019
+TITLE: Intra-rater reliability and criterion-related validity of using an accelerometer to measure the impact force and knee joint sway during single-leg drop landing.
+NORMALITY SENTENCES:
+  * The acc-RMS was calculated between the moment of MKF after landing and the 1 second later.The Shapiro-Wilk test was used to assess the normality of the data.
+
+==========================================================================================
+[38] id=28460712  Braz J Phys Ther  2017
+TITLE: Different pain responses to distinct levels of physical activity in women with patellofemoral pain.
+NORMALITY SENTENCES:
+  * The data were analyzed with respect to their distribution, variance homogeneity, and sphericity using the Shapiro–Wilk W test, Levene's test, and Mauchly's sphericity test, respectively.
+
+==========================================================================================
+[39] id=27512255  J Phys Ther Sci  2016
+TITLE: Canoe game-based virtual reality training to improve trunk postural stability, balance, and upper limb motor function in subacute stroke patients: a randomized controlled pilot study.
+NORMALITY SENTENCES:
+  * The Shapiro-Wilk test was used to confirm that all outcome variables were normally distributed.
+
+==========================================================================================
+[40] id=25995538  J Phys Ther Sci  2015
+TITLE: Relationship between the ability to perform the sit-to-stand movement and the maximum pelvic anteversion and retroversion angles in patients with stroke.
+NORMALITY SENTENCES:
+  * The remaining patients were classified as the stand-unable group.The normality of the maximum pelvic anteversion angle, the maximum pelvic retroversion angle, and the range of pelvic motion in each group was evaluated by the Shapiro-Wilk test.
+  * Normality was not observed for the maximum pelvic anteversion angle of the stand-unable group.
+
+==========================================================================================
+[41] id=35782695  Hong Kong Physiother J  2022
+TITLE: Comparative effects of tensioning and sliding neural mobilization on peripheral and autonomic nervous system function: A randomized controlled trial.
+NORMALITY SENTENCES:
+  * The sample size was increased by 20% to account for potential dropouts.4.7.Data analysisNormality of distribution for all data collected was analyzed with the Kolmogorov–Smirnov test.
+
+==========================================================================================
+[42] id=30568340  J Phys Ther Sci  2018
+TITLE: Biomechanics of single-leg running using lofstrand crutches in amputee soccer.
+NORMALITY SENTENCES:
+  * The time-point of crutch contact (from initial crutch contact and crutch lift-off) was defined as the time over which the vertical movement of the crutch did not exceed 1 mm.The mean (standard deviation) of all measured values was calculated, and the normality of the distribution of the data was evaluated using the Kolmogorov-Smirnov Test.
+  * The confidence interval (95% CI) was calculated to evaluate the magnitude of difference in measured variables between-groups and for running speed.RESULTSAt first, each data indicated normality.
+
+==========================================================================================
+[43] id=27313394  J Phys Ther Sci  2016
+TITLE: The effects of taping, stretching, and joint exercise on hip joint flexibility and range of motion.
+NORMALITY SENTENCES:
+  * Normality of the data was verified through the Kolmogorov–Smirnov test, and then a paired t-test was conducted for the three groups, in order to examine differences in flexibility and angles before and after the exercise.
+
+==========================================================================================
+[44] id=27190464  J Phys Ther Sci  2016
+TITLE: Effects of treadmill exercise on skeletal muscle mTOR signaling pathway in high-fat diet-induced obese mice.
+NORMALITY SENTENCES:
+  * All data were tested for normal distribution using the Shapiro-Wilk test.
+
+==========================================================================================
+[45] id=39704642  Eur J Phys Rehabil Med  2025
+TITLE: Rehabilitation of post-stroke aphasia by a single protocol targeting phonological, lexical, and semantic deficits with speech output tasks: a randomized controlled trial.
+NORMALITY SENTENCES:
+  * non-fluent aphasia type, lesion volume, and FIM score) were performed with independent samples t-tests or non-parametric Mann-Whitney Tests when normality assumptions were violated (in case of continuous variables) or Chi-squared Tests (in case of categorical variables).Baseline differences (i.e., at Pre 1 and Pre 2) between the experimental PHOLEXSEM group and the control PACE group were assessed
+  * Non-parametric tests were chosen because the assumption of normality (tested with Shapiro-Wilk) was violated for all language outcomes.We planned to analyze the effects of treatment by means of a mixed Analysis of Variance (ANOVA) with “Timepoint” (i.e., Pre 1, Pre 2, Post 1, Post 2) as within-subject factor and “Group” (i.e., PHOLEXSEM and PACE) as between-subject factor.
+  * However, Shapiro-Wilk tests and Q-Q plot inspection indicated that residuals were not normally distributed for any language outcome.
+
+==========================================================================================
+[46] id=36744201  J Phys Ther Sci  2023
+TITLE: Effect of ukemi practice in judo on fear of falling and mobility skills in healthy older adults.
+NORMALITY SENTENCES:
+  * Thereafter, two measurements were taken and the average was used as the representative value.For statistical analyses, we first examined whether data showed a normal distribution according to the Shapiro–Wilk test.
+
+==========================================================================================
+[47] id=28878471  J Phys Ther Sci  2017
+TITLE: Test-retest reliability of static postural control in people with multiple sclerosis.
+NORMALITY SENTENCES:
+  * 6) “Distance along Y axis” (Y Extension) (mm): is the distance covered by the CoP on the AP axis.In order to determine the normality of the values of the variables studied, the K-S test was used with the Lilliefors correction.Reliability was measured using the Intraclass correlation coefficient ICC (2.1).
+
+==========================================================================================
+[48] id=33642682  J Phys Ther Sci  2021
+TITLE: Concurrent and discriminant validity of Nintendo Wii Fit <i>exergame</i> for the assessment of postural sway.
+NORMALITY SENTENCES:
+  * Normality of the dependent variables were checked using the Shapiro-Wilk test.
+
+==========================================================================================
+[49] id=26647752  Braz J Phys Ther  2015
+TITLE: Assessment of grip strength with the modified sphygmomanometer test: association between upper limb global strength and motor function.
+NORMALITY SENTENCES:
+  * Before each measurement, the examiner ensured that the equipment was pre-inflated at 20 mmHg33.Statistical analysisDescriptive statistics and normality tests (Shapiro-Wilk) were performed.
+  * Normally distributed data were observed for all continuous variables.
+
+==========================================================================================
+[50] id=39493689  J Phys Ther Sci  2024
+TITLE: Effect of protective taping on knee eversion angle and jump height during single-leg vertical jumps in patients with anterior cruciate ligament reconstruction.
+NORMALITY SENTENCES:
+  * Each outcome was confirmed to follow a normal distribution using the Shapiro–Wilk test, and repeated measures analysis of variance and Tukey’s post-hoc test was performed.RESULTSThe maximum knee joint flexion angle and maximum vertical component of the floor reaction force were not significantly different among the three groups.
+
+==========================================================================================
+[51] id=30034102  J Phys Ther Sci  2018
+TITLE: Three-dimensional kinematic analysis of glenohumeral, scapular, and thoracic angles at maximum shoulder external rotation associated with baseball shadow pitching: comparison with normal pitching.
+NORMALITY SENTENCES:
+  * The Shapiro-Wilk test was used to assess the normality of the data.
+
+==========================================================================================
+[52] id=31871372  J Phys Ther Sci  2019
+TITLE: Factors influencing life-space mobility change after total knee arthroplasty in patients with severe knee osteoarthritis.
+NORMALITY SENTENCES:
+  * Evaluations for each participant were performed before and 3 months after surgery.The normality of the data was confirmed by Shapiro-Wilk’s normality test, and measurement items other than the LSA before the operation and 3 months after the operation were not normally distributed at both measurement timings or at either measurement timing.
+
+==========================================================================================
+[53] id=36637800  Eur J Phys Rehabil Med  2023
+TITLE: The effect of myofascial release in patients with breast cancer-related lymphedema: a cross-over randomized controlled trial.
+NORMALITY SENTENCES:
+  * The Shapiro-Wilk Test was used to test the normality of the distributions.
+
+==========================================================================================
+[54] id=37405187  J Phys Ther Sci  2023
+TITLE: Validity of functional assessment for control of trunk in patients with subacute stroke: a multicenter, cross-sectional study.
+NORMALITY SENTENCES:
+  * The minimum score is 0 and the maximum is 2813).Normality was examined using the Shapiro–Wilk test.
+  * Characteristics of the participants (n=73)Median (Q1–Q3)Mean ± SDGender (male/female)35/38Age (years)67.5 ± 15.5Diagnosis (infarction/cerebral hemorrhage/other)38/32/3Lesion area (putamen/thalamus/ACA area/MCA area/PCA area/brainstem/other)19/16/4/12/1/6/15Paralytic side (right/left)41/32Days since onset (days)110.5 ± 41.6FACT (points)15 (6–20)TIS (points)16 (10–20)FACT measurement time (s)212.6 ±
+  * The Shapiro–Wilk test showed that only FACT measurement time followed a normal distribution (p<0.05).Figure 2Fig.
+
+==========================================================================================
+[55] id=36628149  J Phys Ther Sci  2023
+TITLE: Fundamental motor skill proficiency among 7- to 10-year-old children with Down syndrome.
+NORMALITY SENTENCES:
+  * After measuring the height in centimeters and weight in kilograms, the BMI for age and the BMI percentiles for all participants were calculated in the BMI Group Calculator Metric version of the center for disease control and prevention (CDC)38).The Kolmogorov–Smirnov test for normal data was used to test whether the data were normally distributed.
+  * The data were normally distributed therefore, descriptive statistics and independent samples t-tests were used to verify the differences between the two groups as well as gender.
+
+==========================================================================================
+[56] id=26957726  J Phys Ther Sci  2016
+TITLE: The effects of self-mobilization techniques for the sciatic nerves on physical functions and health of low back pain patients with lower limb radiating pain.
+NORMALITY SENTENCES:
+  * For the subjects’ general characteristics, means and standard deviations were calculated using descriptive statistics, and as normality tests, the Kolmogorov-Smirnov test and Shapiro-Wilk test were performed.
+  * According to the results of the normality tests, physical functioning (PF) and general health (GH) were normally distributed, and in order to analyze differences between the groups according to group homogeneity and exercise, the independent t-test was used;
+
+==========================================================================================
+[57] id=28750549  Clin Rehabil  2018
+TITLE: The role of movement errors in modifying spatiotemporal gait asymmetry post stroke: a randomized controlled trial.
+NORMALITY SENTENCES:
+  * Data residuals were checked for assumptions of normality using the Shapiro-Wilk test, and Mauchly's W was used to test for sphericity with the Huynh-Feldt adjustment, as needed.
+
+==========================================================================================
+[58] id=28931985  J Phys Ther Sci  2017
+TITLE: Effects of magnetic field therapy after taping application on pain and function of patients with knee osteoarthritis.
+NORMALITY SENTENCES:
+  * Magnetic field was applied at a 5–10 Hz frequency at an intensity of 80 for 30 min while the subjects were lying on one side with a 90° flexion of the hip joint and 90° flexion of the knee joint.For the data treatment, this study used the Shapiro-Wilk test for the normality test and the paired-t test for the within-group significance of pain and function.
+
+==========================================================================================
+[59] id=38332698  Eur J Phys Rehabil Med  2024
+TITLE: Dynamic suprahyoid muscle ultrasound in assessing oropharyngeal dysphagia in neurological disorders.
+NORMALITY SENTENCES:
+  * The Kolmogorov-Smirnov Test was used to assess the normal distribution of the data.
+
+==========================================================================================
+[60] id=37791000  J Phys Ther Sci  2023
+TITLE: Factors associated with improvement in impaired consciousness during the acute phase of cerebral infarction: a prospective observational study.
+NORMALITY SENTENCES:
+  * Quantitative variables were tested for normality with the Shapiro–Wilk test, and analyzed with the t-test for time of rehabilitation following a normal distribution, and with the Mann–Whitney U test for age, volume of responsible lesion at admission, degree of delirium, JCS at start of rehabilitation and after 2 weeks (JCS 0–300 was replaced by 0–9), and NIHSS at start of rehabilitation.Next, mult
+
+==========================================================================================
+[61] id=26696721  J Phys Ther Sci  2015
+TITLE: Periodic sound-based 6-minute walk test forpatients with Duchenne muscular dystrophy:a preliminary study.
+NORMALITY SENTENCES:
+  * The sound was generated by a metronome (ME-110, Yamaha Corporation, Hamamatsu, Japan).The variance of normality of the data was tested by the Shapiro-Wilk test.
+  * b ANOVA (no normality).
+  * a ANOVA (no normality).
+
+==========================================================================================
+[62] id=39187006  Arch Phys Med Rehabil  2024
+TITLE: Increased Auditory Dual Task Cost During Gait Initiation in Adult Patients With Persistent Concussion Symptoms.
+NORMALITY SENTENCES:
+  * (Table 1) All outcome measures were assessed for normality using an Anderson-Darling test and the DTC for APA A/P Displacement and Velocity, APA M/L Velocity were not normally distributed while APA M/L Displacement, resultant COP-COM separation, and Auditory Stroop Test were normally distributed.
+  * The Dual Task Cost (DTC) was compared between groups with either a Wilcoxon Test (not normally distributed) or a one-way ANOVA (normally distributed).
+
+==========================================================================================
+[63] id=27134401  J Phys Ther Sci  2016
+TITLE: The comparison of abdominal muscle activation on unstable surface according to the different trunk stability exercises.
+NORMALITY SENTENCES:
+  * Differences in the abdominal muscle activation, the activation ratio of EO/RA and IO/RA between the two groups were analyzed using the independent t-test, and the Kolmogorov-Smirnov test was performed as a normality test for the measured values.
+
+==========================================================================================
+[64] id=37584046  Hong Kong Physiother J  2023
+TITLE: Gross myofascial release of trunk with leg pull technique on low back pain with radiculopathy - A randomised controlled trial.
+NORMALITY SENTENCES:
+  * The normality of data was evaluated by skewness and Kurtosis Z values and the Shapiro–Wilk test, which indicated the data, follows a normal distribution with 95% of confidence.
+
+==========================================================================================
+[65] id=38694018  J Phys Ther Sci  2024
+TITLE: Differences in cough strength, respiratory function, and physical performance in older adults with and without low swallowing function in the repetitive saliva swallowing test.
+NORMALITY SENTENCES:
+  * Normal distributions of variables were verified using the Shapiro–Wilk test.
+
+==========================================================================================
+[66] id=32184534  J Phys Ther Sci  2020
+TITLE: Relationship between walking ability of patients with stroke and effect of body weight-supported treadmill training.
+NORMALITY SENTENCES:
+  * RMS in trunk acceleration is affected by walking speed and is proportional to the square of walking speed9), so we performed adjustments by dividing by the square value of walking speed.For statistical analysis, we confirmed the normality of the extracted data using the Shapiro-Wilk test and used parametric and nonparametric tests accordingly.
+
+==========================================================================================
+[67] id=36567617  Physiother Theory Pract  2024
+TITLE: Financial impact associated with implementation of the low back pain clinical practice guideline in outpatient physical therapist practice at a large academic medical center.
+NORMALITY SENTENCES:
+  * Shapiro-Wilk tests for normality were performed prior to analyses on direct PT and medical costs.
+  * All cost category data were found to be non-normally distributed, however t-tests were used as all other assumptions for parametric tests were met (i.e.
+
+==========================================================================================
+[68] id=39493682  J Phys Ther Sci  2024
+TITLE: Relationship between preoperative and discharge evaluations in patients receiving around-the-knee osteotomy.
+NORMALITY SENTENCES:
+  * The 10-m walking time was measured twice, and the better time was used.For statistical analysis, the Shapiro–Wilk test was used to test normality, the Wilcoxon signed-rank sum test was used to compare preoperative and before discharge parameters, and Spearman’s rank correlation coefficient was used for correlation analysis between parameters.
+
+==========================================================================================
+[69] id=28174431  J Phys Ther Sci  2016
+TITLE: The effect of walking sticks on balance in geriatric subjects.
+NORMALITY SENTENCES:
+  * All data were evaluated for normality using the Shapiro-Wilk test.
+
+==========================================================================================
+[70] id=25993628  Braz J Phys Ther  2015
+TITLE: Balance, gait, functionality and strength: comparison between elderly fallers and non-fallers.
+NORMALITY SENTENCES:
+  * 6th day - gait evaluation.StatisticsData normality and group homogeneity were confirmed using the Kolmogorov-Smirnov and Levene tests, respectively, and the groups were compared using an independent "t" test.
+  * The data that did not present normal distribution were tested using non-parametric tests (the Mann-Whitney U test).
+
+==========================================================================================
+[71] id=27190435  J Phys Ther Sci  2016
+TITLE: The effect of chiropractic techniques on the Cobb angle in idiopathic scoliosis arising in adolescence.
+NORMALITY SENTENCES:
+  * Spine correction was carried out for 30 minutes per session including soft tissue massage, 3 times a week for 8 weeks25).Normality of the data for 5 study participants was tested and verified by Shapiro-Wilk test.
+
+==========================================================================================
+[72] id=32082031  J Phys Ther Sci  2020
+TITLE: Association between preoperative sleep disturbance and low muscle mass in patients with gastrointestinal cancer.
+NORMALITY SENTENCES:
+  * The total score was used to categorize patients into three groups: normal (MNA-SF: 12−14 points), at-risk (8−11points), and malnourished (0−7 points)25).The Shapiro-Wilk test was performed to determine the normality of data.
+  * MNA-SF: Mini Nutritional Assessment-Short Form.Results are expressed as mean ± standard deviations or percentages.Fisher’s exact tests, Student’s t-tests, and Mann-Whitney U tests were used for categorical, normally distributed, and non-normally distributed data, respectively.*Mann-Whitney U tests..
+
+==========================================================================================
+[73] id=29184302  J Phys Ther Sci  2017
+TITLE: An analysis on muscle tone and stiffness of posterior cervical region during sling and plinth on static prone position.
+NORMALITY SENTENCES:
+  * Using the subjects’ general characteristics and the results of the initial measurements, the Kolmogorov-Smirnov test was performed to verify each group’s normal distribution and the independent t-test was conducted to verify homogeneity between the two groups.For the measurement, all subjects took off their tops to remove unnecessary tension, and then performed a prone position with their heads pl
+
+==========================================================================================
+[74] id=32113974  Arch Phys Med Rehabil  2020
+TITLE: Survivors of Chronic Stroke Experience Continued Impairment of Dexterity But Not Strength in the Nonparetic Upper Limb.
+NORMALITY SENTENCES:
+  * Normal probability plots and the Kolmogorov-Smirnov tests were used to evaluate the normal distributions of the Z-scores.
+  * If no significant deviation from normal distribution was observed, one-sample t-tests were run with a null hypothesis of μz = 0.
+
+==========================================================================================
+[75] id=30931022  Hong Kong Physiother J  2016
+TITLE: Effects of combined Adeli suit and neurodevelopmental treatment in children with spastic cerebral palsy with gross motor function classification system levels I and II.
+NORMALITY SENTENCES:
+  * GMFM-88, PBS, TUG test, and spatiotemporal parameters did show normal distribution using the Kolmogorov–Smirnov test.
+
+==========================================================================================
+[76] id=27799699  J Phys Ther Sci  2016
+TITLE: Effectiveness of the back school program for the performance of activities of daily living in users of a basic health unit in Porto Alegre, Brazil.
+NORMALITY SENTENCES:
+  * Data normality was verified with the Shapiro-Wilk test.
+
+==========================================================================================
+[77] id=36866003  J Phys Ther Sci  2023
+TITLE: Examination of body static rotation related to step length asymmetry: biomechanics of the thorax and pelvis.
+NORMALITY SENTENCES:
+  * A positive difference was defined as “right rotation superiority” and a negative difference as “left rotation superiority”.The normality of the data for each subject was examined using the Shapiro–Wilk test.
+  * Spearman’s rank correlation was used for analyses involving AVADG that did not show normality, and Pearson’s correlation was used for other variables that showed normality.
+
+==========================================================================================
+[78] id=28603353  J Phys Ther Sci  2017
+TITLE: The association between the maximum step length test and the walking efficiency in children with cerebral palsy.
+NORMALITY SENTENCES:
+  * The normality of each parameter was assessed using the Shapiro-Wilk test.
+  * Paired t-testing was used to analyze the difference between the dominant and the non-dominant sides on normally distributed parameters obtained for testing the MSL, the maximum side-step length, the step number, the lateral step-up number, and single-leg standing time.
+  * The Wilcoxon signed rank test was used for other parameters.Pearson’s correlation coefficient was used to analyze the relationship between normally distributed parameters obtained for testing the MSL, the maximum side-step length, the step number, the lateral step-up number, and single-leg standing time, and spatio-temporal parameters of walking or walking efficiency parameters.
+
+==========================================================================================
+[79] id=29643584  J Phys Ther Sci  2017
+TITLE: Effects of virtual reality intervention on upper limb motor function and activity of daily living in patients with lesions in different regions of the brain.
+NORMALITY SENTENCES:
+  * Given that this study followed a normal distribution using the Kolmogorov-Smirnov test, a paired t-test and an independent t-test were used to compare the results of the pre- and post-interventions in a group and between the two groups, respectively, using SPSS.RESULTSThe general characteristics are shown in Table 1Table 1.General characteristics in subjects (N=14)MCAG (n=6)GSG (n=8)Age, yrs ± SD6
+
+==========================================================================================
+[80] id=26310784  J Phys Ther Sci  2015
+TITLE: Whole-body vibration-induced muscular reflex: Is it a stretch-induced reflex?
+NORMALITY SENTENCES:
+  * The T-reflex latency was determined using the spike-triggered averaging method in which the first deflection of the acceleration trace was the trigger, and the SEMG of the soleus was the source (Fig 2C).The Kolmogorov-Smirnov test was used to determine whether the data were normally distributed, and for normally distributed data, the arithmetic means and SEs were used for the descriptive statistic
+
+==========================================================================================
+[81] id=27190462  J Phys Ther Sci  2016
+TITLE: Association between nutritional status and Modic classification in degenerative disc disease.
+NORMALITY SENTENCES:
+  * The Kolmogorov-Smirnov test was used to confirm that the data were within the ranges of normal distribution in both groups.
+  * A non-parametric test was used for variables outside normal distribution.
+
+==========================================================================================
+[82] id=28744048  J Phys Ther Sci  2017
+TITLE: Effects of kinesio taping to the quadriceps femoris muscles on functions of elderly women.
+NORMALITY SENTENCES:
+  * The Kolmogorov-Smirnov was used to verify normal distribution, the Wilcoxon test was used to compare the changes in the measured variables between the pre- and the post- intervention, and the Mann-Whitney U test was conducted to compare the differences of the measurements in each group.
+
+==========================================================================================
+[83] id=39239408  J Phys Ther Sci  2024
+TITLE: Kinematics of the anterior interval in individuals with knee osteoarthritis.
+NORMALITY SENTENCES:
+  * Participants’ age, height, weight and BMI in each group were compared using unpaired t-test or Mann–Whitney U-test based on the normality of the data.
+  * Each t-test was conducted after the normality of the data was confirmed by the Shapiro–Wilk test.
+
+==========================================================================================
+[84] id=28571696  Braz J Phys Ther  2017
+TITLE: Functional electrical stimulation improves muscle strength and endurance in patients after cardiac surgery: a randomized controlled trial.
+NORMALITY SENTENCES:
+  * Data distribution was assessed using the Kolmogorov–Smirnov test.
+
+==========================================================================================
+[85] id=25642036  J Phys Ther Sci  2015
+TITLE: Effects of aerobic exercise intensity on 24-h ambulatory blood pressure in individuals with type 2 diabetes and prehypertension.
+NORMALITY SENTENCES:
+  * After assessing the normality and homogeneity of the data using the Shapiro-Wilk test and Levene’s test, respectively, between- and within-groups comparisons were performed using Split-Plot ANOVA (Mixed ANOVA) with Scheffe’s post hoc test.
+
+==========================================================================================
+[86] id=25995565  J Phys Ther Sci  2015
+TITLE: Factors affecting symptoms and functionality of patients with carpal tunnel syndrome: a retrospective study.
+NORMALITY SENTENCES:
+  * The normality of data distribution was verified with the Kolmogorov-Smirnov test.
+
+==========================================================================================
+[87] id=39493688  J Phys Ther Sci  2024
+TITLE: Impact of the simultaneous distribution of e-learning and exercise videos on the health literacy and lifestyle of college students during the COVID-19 pandemic: a randomized controlled trial.
+NORMALITY SENTENCES:
+  * The Shapiro–Wilk test was used to test the normality of the data distribution.
+
+==========================================================================================
+[88] id=28709587  Braz J Phys Ther  2017
+TITLE: Reference values for the bilateral heel-rise test.
+NORMALITY SENTENCES:
+  * To evaluate the distribution of data, the Kolmogorov–Smirnov test was used.
+
+==========================================================================================
+[89] id=29581671  J Phys Ther Sci  2018
+TITLE: Effects of lumbar lordosis assistive support on craniovertebral angle and mechanical properties of the upper trapezius muscle in subjects with forward head posture.
+NORMALITY SENTENCES:
+  * The normality of dependent variables was confirmed using the Shapiro-Wilk test.
+
+==========================================================================================
+[90] id=39007786  Eur J Phys Rehabil Med  2024
+TITLE: Successful evaluation of a new image-based parameter for the diagnosis of carpal tunnel syndrome: ultrasound assessment of longitudinal median nerve gliding in patients, healthy volunteers, and cadavers.
+NORMALITY SENTENCES:
+  * Ultimately, specimens were fully dissected by an anatomist and a neurosurgeon to rule out pathologies or anatomical variations at the carpal tunnel, undetected by ultrasound.Validation by speckle trackingThe anonymized videos were converted to sequences of still images and analyzed using the Speckle TrackerJ plugin16 (version 0.87) for ImageJ.17 In all 63 cases, distinct intraneural structures wer
+
+==========================================================================================
+[91] id=29133972  J Phys Ther Sci  2017
+TITLE: The relationship between the physical cost index and knee extensor strength in children with hemiplegic cerebral palsy.
+NORMALITY SENTENCES:
+  * Two trials were completed for each leg, with the average maximal force calculated and used in the analysis.The normality of the distribution of the PCI and MKES scores was assessed using the Shapiro-Wilk test.
+
+==========================================================================================
+[92] id=27065534  J Phys Ther Sci  2016
+TITLE: Effects of mirror therapy combined with motor tasks on upper extremity function and activities daily living of stroke patients.
+NORMALITY SENTENCES:
+  * Normality was tested using Kolmogorov-Smirnov tests.
+
+==========================================================================================
+[93] id=39239404  J Phys Ther Sci  2024
+TITLE: The effect of non-pathological neck pain on hand grip strength in healthcare practitioners across three different head positions: a cross-sectional study design.
+NORMALITY SENTENCES:
+  * The data exhibited a normal distribution, according to the Shapiro–Wilk test.
+
+==========================================================================================
+[94] id=35221510  J Phys Ther Sci  2022
+TITLE: Changes in hamstring flexibility and muscle strength during the menstrual cycle in healthy young females.
+NORMALITY SENTENCES:
+  * and RMS [medial hamstrings]: 0.97, 7.38%).We assessed the normality of the data using the Shapiro-Wilk test.
+  * This test showed that the data of all participants were normally distributed.
+
+==========================================================================================
+[95] id=29184310  J Phys Ther Sci  2017
+TITLE: Effects of single and dual tasks during walking on spatiotemporal gait parameters of community-dwelling older.
+NORMALITY SENTENCES:
+  * The data distribution of all measured parameters was tested using the Kolmogorov-Smirnov test.
+  * The data of all variables were satisfied with the assumption of normality and subjected to the parameter test.Repeated-measures analysis of variance (four groups, two conditions) and a post-hoc test with Scheffe’s test were used to analyze differences in age, gait speed, stride length, and double limb stance duration.
+
+==========================================================================================
+[96] id=38743389  Eur J Phys Rehabil Med  2024
+TITLE: Effects of motor and cognitive complex training on obstacle walking and brain activity in people with Parkinson's disease: a randomized controlled trial.
+NORMALITY SENTENCES:
+  * The Shapiro-Wilk Test was used to assess normal distributions.
+  * Because of the results of the Shapiro-Wilk Test showed that most of the outcomes were not normally distributed.
+
+==========================================================================================
+[97] id=26083600  Braz J Phys Ther  2015
+TITLE: Parameters of the center of pressure displacement on the saddle during hippotherapy on different surfaces.
+NORMALITY SENTENCES:
+  * The total distance traveled by COP in the ap and ml directions was the sum of the values of all frames.To calculate VCOPap and VCOPml, the total distances traveled by COP in the ap and ml directions were used, respectively, divided by the time of acquisition of 1,000 frames.Statistical analysisThe Shapiro-Wilk normality test was used to evaluate data normality.
+
+==========================================================================================
+[98] id=38577394  Hong Kong Physiother J  2024
+TITLE: Lower extremity muscle strength equation of older adults assessed by Five Time Sit to Stand Test (FTSST).
+NORMALITY SENTENCES:
+  * The Shapiro–Wilk test was used to test for distribution of all variables.
+
+==========================================================================================
+[99] id=27134389  J Phys Ther Sci  2016
+TITLE: Trunk exercises performed on an unstable surface improve trunk muscle activation, postural control, and gait speed in patients with stroke.
+NORMALITY SENTENCES:
+  * The inter- and intra-rater reliability was high (r = 0.89–1.00)21).The normality of variables was assessed by using the Shapiro-Wilk test.
+
+==========================================================================================
+[100] id=33362348  J Phys Ther Sci  2020
+TITLE: Evaluation of a chest rehabilitation project in Nepal using the St. George's Respiratory Questionnaire and Chronic Obstructive Pulmonary Disease Assessment Test.
+NORMALITY SENTENCES:
+  * For statistical analysis, the Shapiro-Wilk test was performed for each item as a normality test, and the Wilcoxon rank-sum test was performed for the total CAT and SGRQ scores and lower-level SGRQ component (symptom, activity, and impact) scores, which were not normally distributed, to compare the health status of the subjects before and after the intervention.
+  * Similarly, the correlation between the SGRQ and CAT scores, which were not normally distributed, was analyzed using Spearman’s rank correlation method.
